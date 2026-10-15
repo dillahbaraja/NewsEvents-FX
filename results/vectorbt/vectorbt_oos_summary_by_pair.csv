@@ -1,0 +1,10 @@
+pair,models_tested,positive_models,total_trades,total_net_pips,best_model,best_model_net_pips
+USDJPY,7,5,12826,9123.699999999535,random_forest,3971.7999999998683
+GBPJPY,7,4,4438,4613.000000000084,pair_specific_event_selection,5366.799999999994
+AUDUSD,7,3,4844,4159.49999999993,pair_specific_event_selection,4342.799999999913
+NZDUSD,7,3,6563,2314.7999999999683,pair_specific_event_selection,2901.9999999999463
+GBPUSD,7,4,5515,1985.9000000000653,pair_specific_event_selection,1895.400000000096
+EURJPY,7,3,7743,1726.5000000000928,pair_specific_event_selection,5266.400000000039
+USDCHF,7,4,7228,740.7999999999594,random_forest,485.89999999996905
+EURUSD,7,2,3638,-273.30000000003145,random_forest,523.4999999999768
+USDCAD,7,3,10503,-1073.600000000202,pair_specific_event_selection,2033.4000000001706

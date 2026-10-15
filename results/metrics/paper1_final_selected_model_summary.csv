@@ -1,0 +1,7 @@
+"model","variant","pairs","pair_count","oos_dev_trades","oos_dev_net_pips","final_2026_net_pips","positive_pairs_oos_dev","positive_pairs_2026"
+"ebm","event_congestion_filter","GBPUSD,USDCHF,USDJPY","3","25160","11613.7","-1395.2","3","0"
+"svm_rbf","jump_volatility_labeling","EURUSD","1","8960","3737.2","1234.2","1","1"
+"ebm","jump_volatility_labeling","EURJPY,USDCAD","2","12153","3420.7","4240.7","2","2"
+"ebm","sparse_event_selection","GBPJPY","1","3965","3264","526.9","1","1"
+"random_forest","v3_sparse_event_selection","NZDUSD","1","7466","1945","-480","1","0"
+"elastic_net","v5_event_congestion_filter","AUDUSD","1","3621","4.9","470.5","1","1"

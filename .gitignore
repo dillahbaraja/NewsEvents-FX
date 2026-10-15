@@ -1,0 +1,14 @@
+*.md
+*.docx
+*.ris
+__pycache__/
+*.pyc
+*.log
+*.ex5
+*.tmp
+*_before_*
+*_backup_*/
+_unused_ea_archive/
+.env
+.venv/
+venv/

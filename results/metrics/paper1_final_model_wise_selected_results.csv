@@ -1,0 +1,10 @@
+pair,model,variant,pair_selection_status,oos_dev_trades,oos_dev_net_pips,oos_dev_profit_factor,final_2026_trades,final_2026_net_pips,final_2026_profit_factor,paper_decision
+AUDUSD,elastic_net,v5_event_congestion_filter,selected,3621,4.899999999994464,1.0005112101073534,1116,470.5000000000115,1.1478351033746037,borderline
+EURJPY,elastic_net,v2_volatility_regime,selected,4167,781.8000000002314,1.0283625677955428,1297,2554.9000000000888,1.4117552257087287,selected
+EURUSD,catboost,v4_jump_volatility_labeling,selected,5418,1969.599999999754,1.0888171393269157,2003,684.9000000001437,1.0869493461978097,selected
+GBPJPY,catboost,baseline_news_only,selected,2152,2260.499999999908,1.1087516056557527,638,331.50000000005093,1.0616824516681331,selected
+GBPUSD,catboost,v4_jump_volatility_labeling,needs_v6_v7,5928,560.6000000002448,1.0179345513642943,1998,-1587.0000000000496,0.8653361504976663,unstable_needs_discussion
+NZDUSD,random_forest,v3_sparse_event_selection,selected,7466,1944.9999999999704,1.1040234895200995,2546,-480.00000000001705,0.9402159698090634,selected_but_final_weak
+USDCAD,catboost,baseline_news_only,selected,3681,913.199999999956,1.0464621693538927,1344,659.3000000000027,1.0947242895319105,selected
+USDCHF,random_forest,v5_event_congestion_filter,selected,7350,1595.6999999999466,1.0648953995314918,2503,-784.9000000000295,0.9082192261368788,selected_but_final_weak
+USDJPY,elastic_net,v3_sparse_event_selection,selected,8714,5335.799999999957,1.0941940335658256,2923,2882.799999999986,1.2163598291817068,selected

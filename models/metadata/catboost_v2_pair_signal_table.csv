@@ -1,0 +1,770 @@
+EVENT_TIME,SYMBOL,COUNTRY,EVENT_NAME,PROBABILITY,SIGNAL,MODEL
+2024.02.15 16:30,EURUSD,US,Retail Sales m/m,0.738413432534689,-1,catboost_v2_pair
+2024.02.15 16:30,EURUSD,US,Core Retail Sales m/m,0.727310767490608,-1,catboost_v2_pair
+2024.02.27 16:30,EURUSD,US,Core Durable Goods Orders m/m,0.7083987362794787,-1,catboost_v2_pair
+2024.04.15 15:30,EURUSD,US,NY Fed Empire State Manufacturing Index,0.7534991665669302,-1,catboost_v2_pair
+2024.10.17 12:00,EURUSD,EU,Trade Balance n.s.a.,0.7049929265246739,-1,catboost_v2_pair
+2024.11.05 18:00,EURUSD,US,ISM Non-Manufacturing PMI,0.7237871064544612,1,catboost_v2_pair
+2024.11.12 13:05,EURUSD,EU,ZEW Economic Sentiment Indicator,0.7294100778583412,-1,catboost_v2_pair
+2025.02.14 16:30,EURUSD,US,Retail Sales m/m,0.7555336589464625,-1,catboost_v2_pair
+2025.02.14 16:30,EURUSD,US,Core Retail Sales m/m,0.7120340403233675,-1,catboost_v2_pair
+2025.02.27 16:30,EURUSD,US,Durable Goods Orders m/m,0.7141431240705512,-1,catboost_v2_pair
+2025.02.28 16:30,EURUSD,US,Personal Spending m/m,0.7329985749907749,-1,catboost_v2_pair
+2025.02.28 17:45,EURUSD,US,MNI Chicago Business Barometer,0.7061617413097093,-1,catboost_v2_pair
+2025.03.20 15:30,EURUSD,US,Current Account,0.759597036731774,-1,catboost_v2_pair
+2025.04.15 15:30,EURUSD,US,NY Fed Empire State Manufacturing Index,0.754838908501029,-1,catboost_v2_pair
+2025.04.30 15:30,EURUSD,US,GDP Sales q/q,0.7343340646236736,-1,catboost_v2_pair
+2025.05.07 22:00,EURUSD,US,Fed Consumer Credit m/m,0.7146945003758598,-1,catboost_v2_pair
+2025.06.06 15:30,EURUSD,US,Private Nonfarm Payrolls,0.7180949911199642,1,catboost_v2_pair
+2025.06.13 12:00,EURUSD,EU,Industrial Production m/m,0.7265604981778488,1,catboost_v2_pair
+2025.06.17 15:30,EURUSD,US,Retail Sales m/m,0.7029622599814895,-1,catboost_v2_pair
+2025.08.18 12:00,EURUSD,EU,Trade Balance n.s.a.,0.7195876122636768,-1,catboost_v2_pair
+2025.08.18 12:00,EURUSD,EU,Trade Balance,0.7118090515037709,-1,catboost_v2_pair
+2025.08.26 15:30,EURUSD,US,Durable Goods Orders m/m,0.7133585598171918,-1,catboost_v2_pair
+2025.11.20 16:30,EURUSD,US,Philadelphia Fed Manufacturing Index,0.7710627012954638,-1,catboost_v2_pair
+2025.12.23 18:00,EURUSD,US,CB Consumer Confidence Index,0.7202368985225125,1,catboost_v2_pair
+2025.12.30 17:45,EURUSD,US,MNI Chicago Business Barometer,0.7114056716700659,-1,catboost_v2_pair
+2026.02.04 16:15,EURUSD,US,ADP Nonfarm Employment Change,0.7148921472170103,1,catboost_v2_pair
+2026.02.10 16:30,EURUSD,US,Retail Control m/m,0.7274979477443229,-1,catboost_v2_pair
+2026.02.26 16:30,EURUSD,US,Initial Jobless Claims,0.7296041714872877,-1,catboost_v2_pair
+2026.03.02 18:00,EURUSD,US,ISM Manufacturing Employment,0.7057512119972117,1,catboost_v2_pair
+2026.03.20 13:00,EURUSD,EU,Trade Balance n.s.a.,0.7510430524979621,-1,catboost_v2_pair
+2026.05.01 17:00,EURUSD,US,ISM Manufacturing Prices Paid,0.7090012628667763,-1,catboost_v2_pair
+2026.07.14 15:30,EURUSD,US,CPI m/m,0.7016427761491095,-1,catboost_v2_pair
+2026.08.05 15:15,EURUSD,US,ADP Nonfarm Employment Change,0.7067498679880775,1,catboost_v2_pair
+2024.01.05 10:00,GBPUSD,GB,Halifax HPI m/m,0.6519127411268142,-1,catboost_v2_pair
+2024.01.05 10:00,GBPUSD,GB,Halifax HPI y/y,0.7422261392471582,-1,catboost_v2_pair
+2024.01.16 10:00,GBPUSD,GB,Claimant Count Change,0.6831687149605313,1,catboost_v2_pair
+2024.01.19 10:00,GBPUSD,GB,Retail Sales y/y,0.6666783158778948,-1,catboost_v2_pair
+2024.01.19 10:00,GBPUSD,GB,Retail Sales m/m,0.798340814459921,-1,catboost_v2_pair
+2024.01.19 10:00,GBPUSD,GB,Core Retail Sales y/y,0.7634891480101671,-1,catboost_v2_pair
+2024.01.19 10:00,GBPUSD,GB,Core Retail Sales m/m,0.7676939371541801,-1,catboost_v2_pair
+2024.01.19 18:00,GBPUSD,US,Existing Home Sales m/m,0.66745024243292,-1,catboost_v2_pair
+2024.01.30 18:00,GBPUSD,US,CB Consumer Confidence Index,0.7642193826770377,1,catboost_v2_pair
+2024.01.31 10:00,GBPUSD,GB,Nationwide HPI m/m,0.672939844241585,-1,catboost_v2_pair
+2024.02.01 16:30,GBPUSD,US,Nonfarm Productivity q/q,0.653404370913176,-1,catboost_v2_pair
+2024.02.02 16:30,GBPUSD,US,Nonfarm Payrolls,0.6858399352312611,1,catboost_v2_pair
+2024.02.05 18:00,GBPUSD,US,ISM Non-Manufacturing PMI,0.6775432005994831,1,catboost_v2_pair
+2024.02.08 03:01,GBPUSD,GB,RICS House Price Balance,0.721302167386652,-1,catboost_v2_pair
+2024.02.15 10:00,GBPUSD,GB,Business Investment q/q,0.6846953551119056,-1,catboost_v2_pair
+2024.02.29 18:00,GBPUSD,US,Pending Home Sales m/m,0.6905267663518764,-1,catboost_v2_pair
+2024.03.05 18:00,GBPUSD,US,ISM Non-Manufacturing Prices Paid,0.6623610296594963,1,catboost_v2_pair
+2024.03.07 23:00,GBPUSD,US,Fed Consumer Credit m/m,0.6719162656829075,-1,catboost_v2_pair
+2024.03.12 21:00,GBPUSD,US,Federal Budget Balance,0.6680031187886177,1,catboost_v2_pair
+2024.03.14 03:01,GBPUSD,GB,RICS House Price Balance,0.7306924797936585,-1,catboost_v2_pair
+2024.03.22 10:00,GBPUSD,GB,Retail Sales m/m,0.7263075330140746,-1,catboost_v2_pair
+2024.03.22 10:00,GBPUSD,GB,Core Retail Sales m/m,0.6978378278688471,-1,catboost_v2_pair
+2024.03.25 17:00,GBPUSD,US,New Home Sales m/m,0.6512434329069441,-1,catboost_v2_pair
+2024.03.26 15:30,GBPUSD,US,Durable Goods Orders m/m,0.7097303892427871,-1,catboost_v2_pair
+2024.03.26 16:00,GBPUSD,US,S&P/CS HPI Composite-20 y/y,0.6539653198871427,1,catboost_v2_pair
+2024.04.03 15:15,GBPUSD,US,ADP Nonfarm Employment Change,0.6819137231804236,-1,catboost_v2_pair
+2024.04.03 17:30,GBPUSD,US,EIA Cushing Crude Oil Stocks Change,0.6566707331449324,-1,catboost_v2_pair
+2024.04.05 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.6613172451430791,-1,catboost_v2_pair
+2024.04.10 21:00,GBPUSD,US,Federal Budget Balance,0.7311037400699177,-1,catboost_v2_pair
+2024.04.18 17:00,GBPUSD,US,Existing Home Sales m/m,0.7041106747707878,-1,catboost_v2_pair
+2024.04.23 11:30,GBPUSD,GB,S&P Global/CIPS Services PMI,0.6725377746633473,-1,catboost_v2_pair
+2024.05.07 09:00,GBPUSD,GB,Halifax HPI y/y,0.7868077220495436,-1,catboost_v2_pair
+2024.05.07 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.6981979536954109,-1,catboost_v2_pair
+2024.05.10 21:00,GBPUSD,US,Federal Budget Balance,0.678977789303261,-1,catboost_v2_pair
+2024.05.15 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.7556138409184692,-1,catboost_v2_pair
+2024.05.23 11:30,GBPUSD,GB,S&P Global/CIPS Manufacturing PMI,0.7092355760444713,-1,catboost_v2_pair
+2024.05.23 17:00,GBPUSD,US,New Home Sales m/m,0.7284275299109346,-1,catboost_v2_pair
+2024.05.24 09:00,GBPUSD,GB,Retail Sales y/y,0.7659876070977184,-1,catboost_v2_pair
+2024.05.24 09:00,GBPUSD,GB,Retail Sales m/m,0.7537474103233966,-1,catboost_v2_pair
+2024.05.24 09:00,GBPUSD,GB,Core Retail Sales m/m,0.7213137943840565,-1,catboost_v2_pair
+2024.05.24 09:00,GBPUSD,GB,Core Retail Sales y/y,0.7775832079713474,-1,catboost_v2_pair
+2024.05.28 17:00,GBPUSD,US,CB Consumer Confidence Index,0.6543338992499418,1,catboost_v2_pair
+2024.05.30 17:00,GBPUSD,US,Pending Home Sales m/m,0.6567670672462623,-1,catboost_v2_pair
+2024.05.31 09:00,GBPUSD,GB,Nationwide HPI m/m,0.6541410535858211,-1,catboost_v2_pair
+2024.05.31 09:00,GBPUSD,GB,Nationwide HPI y/y,0.6652051241785686,-1,catboost_v2_pair
+2024.06.06 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.6814285637030848,-1,catboost_v2_pair
+2024.06.07 09:00,GBPUSD,GB,Halifax HPI y/y,0.7712584306379933,-1,catboost_v2_pair
+2024.06.18 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.7664029428140731,-1,catboost_v2_pair
+2024.07.03 15:30,GBPUSD,US,Trade Balance,0.6751353537794453,-1,catboost_v2_pair
+2024.07.08 22:00,GBPUSD,US,Fed Consumer Credit m/m,0.6972458459807758,-1,catboost_v2_pair
+2024.07.11 21:00,GBPUSD,US,Federal Budget Balance,0.6901912963383419,-1,catboost_v2_pair
+2024.07.12 17:00,GBPUSD,US,Michigan Consumer Sentiment,0.6553548141008617,-1,catboost_v2_pair
+2024.07.19 09:00,GBPUSD,GB,Retail Sales m/m,0.6802622692740837,-1,catboost_v2_pair
+2024.07.19 09:00,GBPUSD,GB,Core Retail Sales m/m,0.7372162395936651,-1,catboost_v2_pair
+2024.07.24 17:00,GBPUSD,US,New Home Sales m/m,0.6559247632209576,-1,catboost_v2_pair
+2024.07.31 17:00,GBPUSD,US,Pending Home Sales m/m,0.6932351594253505,-1,catboost_v2_pair
+2024.08.06 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.7180773525089964,-1,catboost_v2_pair
+2024.08.07 09:00,GBPUSD,GB,Halifax HPI m/m,0.6552393679840463,-1,catboost_v2_pair
+2024.08.07 09:00,GBPUSD,GB,Halifax HPI y/y,0.6733171608782376,-1,catboost_v2_pair
+2024.08.12 21:00,GBPUSD,US,Federal Budget Balance,0.6509758376484387,-1,catboost_v2_pair
+2024.08.15 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.6565303925459383,-1,catboost_v2_pair
+2024.08.22 11:30,GBPUSD,GB,S&P Global/CIPS Manufacturing PMI,0.6512496930882365,-1,catboost_v2_pair
+2024.08.29 17:00,GBPUSD,US,Pending Home Sales m/m,0.650596078675511,-1,catboost_v2_pair
+2024.09.05 17:00,GBPUSD,US,ISM Non-Manufacturing Prices Paid,0.6566773056139595,1,catboost_v2_pair
+2024.09.06 09:00,GBPUSD,GB,Halifax HPI y/y,0.7090820799672463,-1,catboost_v2_pair
+2024.09.09 22:00,GBPUSD,US,Fed Consumer Credit m/m,0.7220162793298339,-1,catboost_v2_pair
+2024.09.11 09:00,GBPUSD,GB,Industrial Production m/m,0.6929480173073084,-1,catboost_v2_pair
+2024.09.11 09:00,GBPUSD,GB,Manufacturing Production m/m,0.6555661059972346,-1,catboost_v2_pair
+2024.09.12 02:01,GBPUSD,GB,RICS House Price Balance,0.7548106057668811,-1,catboost_v2_pair
+2024.09.12 21:00,GBPUSD,US,Federal Budget Balance,0.6725179813091708,-1,catboost_v2_pair
+2024.09.18 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.8069396006478368,-1,catboost_v2_pair
+2024.09.25 17:00,GBPUSD,US,New Home Sales m/m,0.6831311174480383,-1,catboost_v2_pair
+2024.09.30 09:00,GBPUSD,GB,Nationwide HPI y/y,0.6998265635774078,-1,catboost_v2_pair
+2024.09.30 09:00,GBPUSD,GB,Nationwide HPI m/m,0.6559289914789257,-1,catboost_v2_pair
+2024.10.04 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.6990809764559339,-1,catboost_v2_pair
+2024.10.04 15:30,GBPUSD,US,Nonfarm Payrolls,0.6707685192355061,-1,catboost_v2_pair
+2024.10.16 09:00,GBPUSD,GB,CPI m/m,0.6561061201142931,1,catboost_v2_pair
+2024.10.18 21:00,GBPUSD,US,Federal Budget Balance,0.6991082613748067,-1,catboost_v2_pair
+2024.10.23 17:30,GBPUSD,US,EIA Cushing Crude Oil Stocks Change,0.6509723931830123,-1,catboost_v2_pair
+2024.10.24 17:00,GBPUSD,US,New Home Sales m/m,0.6735210041277107,-1,catboost_v2_pair
+2024.10.29 15:30,GBPUSD,US,Goods Trade Balance,0.6796307003277431,-1,catboost_v2_pair
+2024.10.30 15:30,GBPUSD,US,GDP Sales q/q,0.6523143564643638,1,catboost_v2_pair
+2024.11.05 16:30,GBPUSD,US,Trade Balance,0.7010936756234666,-1,catboost_v2_pair
+2024.11.05 18:00,GBPUSD,US,ISM Non-Manufacturing PMI,0.68171555875382,1,catboost_v2_pair
+2024.11.14 03:01,GBPUSD,GB,RICS House Price Balance,0.6617123492883987,-1,catboost_v2_pair
+2024.11.15 10:00,GBPUSD,GB,Manufacturing Production m/m,0.6667384464207579,-1,catboost_v2_pair
+2024.11.20 09:00,GBPUSD,GB,PPI Input m/m,0.6589829268787958,-1,catboost_v2_pair
+2024.11.26 18:00,GBPUSD,US,New Home Sales m/m,0.686126394776524,-1,catboost_v2_pair
+2024.11.26 18:00,GBPUSD,US,CB Consumer Confidence Index,0.6567112787403935,1,catboost_v2_pair
+2024.12.02 10:00,GBPUSD,GB,Nationwide HPI m/m,0.7035912679423926,-1,catboost_v2_pair
+2024.12.02 10:00,GBPUSD,GB,Nationwide HPI y/y,0.73745458759177,-1,catboost_v2_pair
+2024.12.02 18:00,GBPUSD,US,ISM Manufacturing Prices Paid,0.6585630572408522,1,catboost_v2_pair
+2024.12.06 10:00,GBPUSD,GB,Halifax HPI y/y,0.7079165992712817,-1,catboost_v2_pair
+2024.12.06 10:00,GBPUSD,GB,Halifax HPI m/m,0.8209793631296274,-1,catboost_v2_pair
+2024.12.06 23:00,GBPUSD,US,Fed Consumer Credit m/m,0.7200109798377319,-1,catboost_v2_pair
+2024.12.18 16:30,GBPUSD,US,Housing Starts m/m,0.65705878143263,1,catboost_v2_pair
+2024.12.20 00:00,GBPUSD,US,TIC Net Long-Term Transactions,0.7206691596329284,-1,catboost_v2_pair
+2024.12.20 10:00,GBPUSD,GB,Core Retail Sales y/y,0.7089368464909174,-1,catboost_v2_pair
+2024.12.20 10:00,GBPUSD,GB,Retail Sales y/y,0.693351836340352,-1,catboost_v2_pair
+2024.12.20 10:00,GBPUSD,GB,Retail Sales m/m,0.6820892756851488,-1,catboost_v2_pair
+2024.12.23 10:00,GBPUSD,GB,Business Investment q/q,0.7247777071203632,-1,catboost_v2_pair
+2024.12.23 10:00,GBPUSD,GB,Current Account,0.7047190374788238,-1,catboost_v2_pair
+2025.01.02 10:00,GBPUSD,GB,Nationwide HPI y/y,0.7301523190444763,-1,catboost_v2_pair
+2025.01.08 16:15,GBPUSD,US,ADP Nonfarm Employment Change,0.651441605967836,1,catboost_v2_pair
+2025.01.08 23:00,GBPUSD,US,Fed Consumer Credit m/m,0.6684682150850614,-1,catboost_v2_pair
+2025.01.16 03:01,GBPUSD,GB,RICS House Price Balance,0.6899332673985412,-1,catboost_v2_pair
+2025.01.17 10:00,GBPUSD,GB,Retail Sales y/y,0.7287117672981339,-1,catboost_v2_pair
+2025.01.29 16:30,GBPUSD,US,Goods Trade Balance,0.6582701408897157,-1,catboost_v2_pair
+2025.02.05 16:30,GBPUSD,US,Trade Balance,0.6586949907242508,-1,catboost_v2_pair
+2025.02.07 10:00,GBPUSD,GB,Halifax HPI m/m,0.678929318413356,-1,catboost_v2_pair
+2025.02.07 23:00,GBPUSD,US,Fed Consumer Credit m/m,0.7248056685068963,-1,catboost_v2_pair
+2025.02.13 10:00,GBPUSD,GB,GDP y/y,0.6830345959853212,-1,catboost_v2_pair
+2025.02.14 17:15,GBPUSD,US,Fed Industrial Production y/y,0.7005603141213299,1,catboost_v2_pair
+2025.02.21 10:00,GBPUSD,GB,Retail Sales y/y,0.6810915492431932,-1,catboost_v2_pair
+2025.02.21 10:00,GBPUSD,GB,Retail Sales m/m,0.7348723131322239,-1,catboost_v2_pair
+2025.03.05 18:00,GBPUSD,US,Factory Orders m/m,0.6532642000994742,1,catboost_v2_pair
+2025.03.07 16:30,GBPUSD,US,Nonfarm Payrolls,0.6838589977582228,-1,catboost_v2_pair
+2025.03.20 15:30,GBPUSD,US,Current Account,0.672942661881897,-1,catboost_v2_pair
+2025.03.20 17:00,GBPUSD,US,Existing Home Sales m/m,0.6522705458394333,-1,catboost_v2_pair
+2025.04.04 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.692072911531993,-1,catboost_v2_pair
+2025.04.11 09:00,GBPUSD,GB,Industrial Production m/m,0.7182568642221397,-1,catboost_v2_pair
+2025.04.16 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.6977104001276193,-1,catboost_v2_pair
+2025.04.29 17:00,GBPUSD,US,CB Consumer Confidence Index,0.66471141398141,1,catboost_v2_pair
+2025.05.01 11:30,GBPUSD,GB,S&P Global/CIPS Manufacturing PMI,0.6910895364525175,-1,catboost_v2_pair
+2025.05.08 09:00,GBPUSD,GB,Halifax HPI m/m,0.6561817596549765,-1,catboost_v2_pair
+2025.05.12 21:00,GBPUSD,US,Federal Budget Balance,0.712659405805376,-1,catboost_v2_pair
+2025.05.15 16:15,GBPUSD,US,Fed Industrial Production y/y,0.7121050121880614,1,catboost_v2_pair
+2025.05.16 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.798222547113039,-1,catboost_v2_pair
+2025.05.22 11:30,GBPUSD,GB,S&P Global/CIPS Services PMI,0.6955829268477391,-1,catboost_v2_pair
+2025.05.29 17:00,GBPUSD,US,Pending Home Sales m/m,0.6793931488120261,-1,catboost_v2_pair
+2025.05.29 19:00,GBPUSD,US,EIA Crude Oil Stocks Change,0.7023577052573976,1,catboost_v2_pair
+2025.05.30 15:30,GBPUSD,US,Goods Trade Balance,0.6619753172411565,-1,catboost_v2_pair
+2025.06.02 09:00,GBPUSD,GB,Nationwide HPI m/m,0.6619636026544614,-1,catboost_v2_pair
+2025.06.02 11:30,GBPUSD,GB,S&P Global/CIPS Manufacturing PMI,0.6923258529494462,-1,catboost_v2_pair
+2025.06.05 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.6976758316397109,-1,catboost_v2_pair
+2025.06.06 15:30,GBPUSD,US,Nonfarm Payrolls,0.6692899859703523,1,catboost_v2_pair
+2025.06.06 22:00,GBPUSD,US,Fed Consumer Credit m/m,0.7070315819833985,-1,catboost_v2_pair
+2025.06.12 02:01,GBPUSD,GB,RICS House Price Balance,0.7693293687156912,-1,catboost_v2_pair
+2025.06.20 09:00,GBPUSD,GB,Retail Sales m/m,0.7648791279016669,-1,catboost_v2_pair
+2025.06.23 11:30,GBPUSD,GB,S&P Global/CIPS Manufacturing PMI,0.6707800921544277,-1,catboost_v2_pair
+2025.06.24 17:00,GBPUSD,US,CB Consumer Confidence Index,0.6884741242813075,1,catboost_v2_pair
+2025.06.26 17:00,GBPUSD,US,Pending Home Sales m/m,0.7142580119271459,-1,catboost_v2_pair
+2025.07.03 11:30,GBPUSD,GB,S&P Global/CIPS Services PMI,0.6807796644165428,-1,catboost_v2_pair
+2025.07.03 17:00,GBPUSD,US,Factory Orders m/m,0.6751382575675043,-1,catboost_v2_pair
+2025.07.10 02:01,GBPUSD,GB,RICS House Price Balance,0.7125167894815394,-1,catboost_v2_pair
+2025.07.11 21:00,GBPUSD,US,Federal Budget Balance,0.6917217037197823,-1,catboost_v2_pair
+2025.07.15 15:30,GBPUSD,US,NY Fed Empire State Manufacturing Index,0.6854096227381273,-1,catboost_v2_pair
+2025.07.17 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.7190007688400215,-1,catboost_v2_pair
+2025.07.30 17:00,GBPUSD,US,Pending Home Sales m/m,0.6733587493677853,-1,catboost_v2_pair
+2025.08.01 09:00,GBPUSD,GB,Nationwide HPI m/m,0.6930591966404558,-1,catboost_v2_pair
+2025.08.05 15:30,GBPUSD,US,Trade Balance,0.654415574575685,-1,catboost_v2_pair
+2025.08.20 09:00,GBPUSD,GB,CPI m/m,0.6646160797308401,1,catboost_v2_pair
+2025.08.20 09:00,GBPUSD,GB,CPIH m/m,0.6561006034515869,1,catboost_v2_pair
+2025.08.21 11:30,GBPUSD,GB,S&P Global/CIPS Services PMI,0.6719492300910677,-1,catboost_v2_pair
+2025.09.08 22:00,GBPUSD,US,Fed Consumer Credit m/m,0.7102427006662222,-1,catboost_v2_pair
+2025.09.12 09:00,GBPUSD,GB,Manufacturing Production m/m,0.7780353057029487,-1,catboost_v2_pair
+2025.09.12 09:00,GBPUSD,GB,Industrial Production m/m,0.6578937342186635,-1,catboost_v2_pair
+2025.09.25 15:30,GBPUSD,US,GDP q/q,0.6749053673437855,1,catboost_v2_pair
+2025.10.06 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.6529881160087642,-1,catboost_v2_pair
+2025.10.10 21:00,GBPUSD,US,Federal Budget Balance,0.7014210918688605,-1,catboost_v2_pair
+2025.11.07 10:00,GBPUSD,GB,Halifax HPI m/m,0.7094123327569459,-1,catboost_v2_pair
+2025.11.07 10:00,GBPUSD,GB,Halifax HPI y/y,0.7182173495637655,-1,catboost_v2_pair
+2025.11.07 23:00,GBPUSD,US,Fed Consumer Credit m/m,0.7150306357252738,-1,catboost_v2_pair
+2025.11.20 16:30,GBPUSD,US,Philadelphia Fed Manufacturing Index,0.6513715415521698,-1,catboost_v2_pair
+2025.11.25 18:00,GBPUSD,US,CB Consumer Confidence Index,0.7080983573623052,1,catboost_v2_pair
+2025.12.11 03:01,GBPUSD,GB,RICS House Price Balance,0.718856164687848,-1,catboost_v2_pair
+2025.12.23 16:30,GBPUSD,US,GDP q/q,0.6559568896293744,1,catboost_v2_pair
+2025.12.23 18:00,GBPUSD,US,CB Consumer Confidence Index,0.6822789415432974,1,catboost_v2_pair
+2026.01.08 16:30,GBPUSD,US,Initial Jobless Claims,0.735060147403811,-1,catboost_v2_pair
+2026.01.13 18:00,GBPUSD,US,New Home Sales m/m,0.6786912916944139,1,catboost_v2_pair
+2026.01.15 03:01,GBPUSD,GB,RICS House Price Balance,0.7050898198873182,-1,catboost_v2_pair
+2026.01.16 17:15,GBPUSD,US,Fed Industrial Production y/y,0.6895309310002394,1,catboost_v2_pair
+2026.01.23 10:00,GBPUSD,GB,Core Retail Sales y/y,0.7401804760749523,-1,catboost_v2_pair
+2026.01.23 10:00,GBPUSD,GB,Retail Sales y/y,0.7332893447362584,-1,catboost_v2_pair
+2026.01.23 10:00,GBPUSD,GB,Retail Sales m/m,0.6617747180410795,-1,catboost_v2_pair
+2026.01.26 16:30,GBPUSD,US,Durable Goods Orders m/m,0.6612132672474201,-1,catboost_v2_pair
+2026.02.02 18:00,GBPUSD,US,ISM Manufacturing PMI,0.7407254448893797,1,catboost_v2_pair
+2026.02.04 16:15,GBPUSD,US,ADP Nonfarm Employment Change,0.6724833167333211,1,catboost_v2_pair
+2026.02.06 23:00,GBPUSD,US,Fed Consumer Credit m/m,0.7203853549921128,-1,catboost_v2_pair
+2026.02.12 03:01,GBPUSD,GB,RICS House Price Balance,0.7583011764881417,-1,catboost_v2_pair
+2026.02.12 18:00,GBPUSD,US,Existing Home Sales m/m,0.6533794987742253,-1,catboost_v2_pair
+2026.02.26 16:30,GBPUSD,US,Initial Jobless Claims,0.7075190226908831,-1,catboost_v2_pair
+2026.03.04 18:00,GBPUSD,US,ISM Non-Manufacturing PMI,0.6616245570804485,1,catboost_v2_pair
+2026.03.10 17:00,GBPUSD,US,Existing Home Sales m/m,0.669204853868718,-1,catboost_v2_pair
+2026.03.19 17:00,GBPUSD,US,New Home Sales m/m,0.7022967005724834,-1,catboost_v2_pair
+2026.03.25 15:30,GBPUSD,US,Import Price Index m/m,0.6624696574302273,1,catboost_v2_pair
+2026.03.26 15:30,GBPUSD,US,Initial Jobless Claims,0.6999350964624691,-1,catboost_v2_pair
+2026.03.31 09:00,GBPUSD,GB,Nationwide HPI y/y,0.6712441367959283,-1,catboost_v2_pair
+2026.04.10 21:00,GBPUSD,US,Federal Budget Balance,0.6970008788449218,-1,catboost_v2_pair
+2026.04.13 17:00,GBPUSD,US,Existing Home Sales m/m,0.6623699138653966,-1,catboost_v2_pair
+2026.04.23 11:30,GBPUSD,GB,S&P Global/CIPS Manufacturing PMI,0.6906587978461437,-1,catboost_v2_pair
+2026.05.01 09:00,GBPUSD,GB,Nationwide HPI y/y,0.704211059328216,-1,catboost_v2_pair
+2026.05.06 17:30,GBPUSD,US,EIA Crude Oil Stocks Change,0.6560399225767877,-1,catboost_v2_pair
+2026.05.07 15:30,GBPUSD,US,Initial Jobless Claims,0.7102913187806256,-1,catboost_v2_pair
+2026.05.07 22:00,GBPUSD,US,Fed Consumer Credit m/m,0.7228047046127465,-1,catboost_v2_pair
+2026.05.12 21:00,GBPUSD,US,Federal Budget Balance,0.7108208184431474,-1,catboost_v2_pair
+2026.05.28 17:00,GBPUSD,US,New Home Sales m/m,0.6625709645195778,-1,catboost_v2_pair
+2026.06.03 11:30,GBPUSD,GB,S&P Global/CIPS Services PMI,0.6910124609653511,-1,catboost_v2_pair
+2026.06.18 15:30,GBPUSD,US,Philadelphia Fed Manufacturing Index,0.6676062662354375,-1,catboost_v2_pair
+2026.06.18 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.6911007008489425,-1,catboost_v2_pair
+2026.06.24 15:30,GBPUSD,US,Current Account,0.6564269573510806,-1,catboost_v2_pair
+2026.06.24 17:00,GBPUSD,US,New Home Sales m/m,0.6747423090325815,-1,catboost_v2_pair
+2026.06.25 15:30,GBPUSD,US,GDP q/q,0.6501449213218042,1,catboost_v2_pair
+2026.07.14 23:00,GBPUSD,US,TIC Net Long-Term Transactions,0.7290519828471825,-1,catboost_v2_pair
+2026.07.16 17:00,GBPUSD,US,Pending Home Sales m/m,0.6741768436744267,-1,catboost_v2_pair
+2026.07.24 09:00,GBPUSD,GB,Core Retail Sales m/m,0.6852129163378283,-1,catboost_v2_pair
+2026.07.24 11:30,GBPUSD,GB,S&P Global/CIPS Services PMI,0.7187583761396849,-1,catboost_v2_pair
+2026.07.24 17:00,GBPUSD,US,New Home Sales m/m,0.6644713524083263,-1,catboost_v2_pair
+2026.08.06 11:30,GBPUSD,GB,S&P Global/CIPS Construction PMI,0.740287157778296,-1,catboost_v2_pair
+2026.08.07 22:00,GBPUSD,US,Fed Consumer Credit m/m,0.7377414439447487,-1,catboost_v2_pair
+2026.08.12 21:00,GBPUSD,US,Federal Budget Balance,0.7097269714179048,-1,catboost_v2_pair
+2026.08.13 15:30,GBPUSD,US,Initial Jobless Claims,0.7111373791995402,-1,catboost_v2_pair
+2026.08.27 15:30,GBPUSD,US,Goods Trade Balance,0.6632311436356975,-1,catboost_v2_pair
+2024.01.11 22:00,USDJPY,US,Federal Budget Balance,0.7705633610202026,-1,catboost_v2_pair
+2024.02.12 22:00,USDJPY,US,Federal Budget Balance,0.7271610309655242,-1,catboost_v2_pair
+2024.02.15 16:30,USDJPY,US,Retail Sales m/m,0.8345222434275429,1,catboost_v2_pair
+2024.02.15 16:30,USDJPY,US,Core Retail Sales m/m,0.8183582529294053,1,catboost_v2_pair
+2024.03.21 02:50,USDJPY,JP,Adjusted Trade Balance,0.7615994177441291,-1,catboost_v2_pair
+2024.03.21 02:50,USDJPY,JP,Trade Balance,0.7077100597129116,-1,catboost_v2_pair
+2024.03.25 17:00,USDJPY,US,New Home Sales m/m,0.7425456179686246,1,catboost_v2_pair
+2024.04.01 17:00,USDJPY,US,ISM Manufacturing Employment,0.7129312065592258,1,catboost_v2_pair
+2024.04.17 02:50,USDJPY,JP,Adjusted Trade Balance,0.7006936544310096,-1,catboost_v2_pair
+2024.04.25 15:30,USDJPY,US,GDP q/q,0.7260314049212515,1,catboost_v2_pair
+2024.04.25 15:30,USDJPY,US,GDP Sales q/q,0.7044334497529479,1,catboost_v2_pair
+2024.04.30 17:00,USDJPY,US,CB Consumer Confidence Index,0.7916509595176054,-1,catboost_v2_pair
+2024.05.10 02:50,USDJPY,JP,Current Account n.s.a.,0.7698617473051763,-1,catboost_v2_pair
+2024.05.10 17:00,USDJPY,US,Michigan Consumer Sentiment,0.7089914384153179,-1,catboost_v2_pair
+2024.05.16 15:30,USDJPY,US,Import Price Index m/m,0.739929803912891,1,catboost_v2_pair
+2024.05.16 16:15,USDJPY,US,Fed Industrial Production y/y,0.8179396610700876,1,catboost_v2_pair
+2024.05.22 02:50,USDJPY,JP,Trade Balance,0.7056812137596352,-1,catboost_v2_pair
+2024.05.30 15:30,USDJPY,US,Retail Inventories m/m,0.735213817541863,1,catboost_v2_pair
+2024.06.03 16:45,USDJPY,US,S&P Global Manufacturing PMI,0.7775297135457329,1,catboost_v2_pair
+2024.06.05 17:00,USDJPY,US,ISM Non-Manufacturing Employment,0.7169257743410067,1,catboost_v2_pair
+2024.06.10 02:50,USDJPY,JP,Net Exports Contribution to GDP q/q,0.7195598583771029,-1,catboost_v2_pair
+2024.06.18 15:30,USDJPY,US,Core Retail Sales m/m,0.7264569991858364,1,catboost_v2_pair
+2024.06.19 02:50,USDJPY,JP,Trade Balance,0.7033602342833905,-1,catboost_v2_pair
+2024.06.25 17:00,USDJPY,US,CB Consumer Confidence Index,0.7157928899730914,-1,catboost_v2_pair
+2024.07.16 15:30,USDJPY,US,Retail Sales m/m,0.7586723528327005,1,catboost_v2_pair
+2024.07.18 02:50,USDJPY,JP,Adjusted Trade Balance,0.7284353372894693,-1,catboost_v2_pair
+2024.07.23 17:00,USDJPY,US,Existing Home Sales m/m,0.7143124923404809,1,catboost_v2_pair
+2024.07.25 15:30,USDJPY,US,GDP q/q,0.7040444816131927,1,catboost_v2_pair
+2024.08.01 17:00,USDJPY,US,ISM Manufacturing Prices Paid,0.720562467603244,1,catboost_v2_pair
+2024.08.15 16:15,USDJPY,US,Fed Industrial Production m/m,0.7762183994512902,1,catboost_v2_pair
+2024.08.15 16:15,USDJPY,US,Fed Industrial Production y/y,0.8202658049593347,1,catboost_v2_pair
+2024.08.21 02:50,USDJPY,JP,Trade Balance,0.7244827424009498,-1,catboost_v2_pair
+2024.08.27 17:00,USDJPY,US,CB Consumer Confidence Index,0.758930568810878,1,catboost_v2_pair
+2024.08.30 02:30,USDJPY,JP,Tokyo Core CPI y/y,0.74814474272467,-1,catboost_v2_pair
+2024.09.03 17:00,USDJPY,US,ISM Manufacturing PMI,0.7705722639202861,1,catboost_v2_pair
+2024.09.13 17:00,USDJPY,US,Michigan Consumer Sentiment,0.7518059232926915,1,catboost_v2_pair
+2024.09.17 15:30,USDJPY,US,Retail Sales m/m,0.738900458415638,1,catboost_v2_pair
+2024.10.11 02:50,USDJPY,JP,BoJ L Money Stock y/y,0.7873376862740211,-1,catboost_v2_pair
+2024.10.17 16:15,USDJPY,US,Fed Industrial Production m/m,0.7055165306182879,1,catboost_v2_pair
+2024.10.17 16:15,USDJPY,US,Fed Industrial Production y/y,0.7900117948047756,1,catboost_v2_pair
+2024.11.05 17:45,USDJPY,US,S&P Global Composite PMI,0.73081114783483,1,catboost_v2_pair
+2024.11.15 16:30,USDJPY,US,Core Retail Sales m/m,0.7783770676912226,1,catboost_v2_pair
+2024.11.15 17:15,USDJPY,US,Fed Industrial Production m/m,0.71582654797925,1,catboost_v2_pair
+2024.11.15 17:15,USDJPY,US,Fed Industrial Production y/y,0.7029442052017021,1,catboost_v2_pair
+2024.11.29 02:30,USDJPY,JP,Tokyo Core CPI y/y,0.7595686139375574,-1,catboost_v2_pair
+2024.12.09 02:50,USDJPY,JP,Current Account n.s.a.,0.7391771833193801,-1,catboost_v2_pair
+2024.12.17 17:15,USDJPY,US,Fed Industrial Production y/y,0.7654468980415904,1,catboost_v2_pair
+2024.12.23 18:00,USDJPY,US,CB Consumer Confidence Index,0.8516831900681343,-1,catboost_v2_pair
+2025.01.23 02:50,USDJPY,JP,Trade Balance,0.7645764794709559,-1,catboost_v2_pair
+2025.01.31 02:30,USDJPY,JP,Tokyo Core CPI y/y,0.7397561730430313,-1,catboost_v2_pair
+2025.01.31 17:45,USDJPY,US,MNI Chicago Business Barometer,0.7249407055722356,1,catboost_v2_pair
+2025.02.03 17:45,USDJPY,US,S&P Global Manufacturing PMI,0.7726755045528282,1,catboost_v2_pair
+2025.02.14 16:30,USDJPY,US,Core Retail Sales m/m,0.8138392607213689,1,catboost_v2_pair
+2025.02.14 16:30,USDJPY,US,Retail Sales m/m,0.825024419840682,1,catboost_v2_pair
+2025.02.17 02:50,USDJPY,JP,GDP Price Index y/y,0.7437475268892937,-1,catboost_v2_pair
+2025.02.19 02:50,USDJPY,JP,Adjusted Trade Balance,0.7516570421594962,-1,catboost_v2_pair
+2025.03.14 17:00,USDJPY,US,Michigan Consumer Expectations,0.7095871058376927,-1,catboost_v2_pair
+2025.03.14 17:00,USDJPY,US,Michigan Consumer Sentiment,0.7024100010632346,-1,catboost_v2_pair
+2025.04.09 17:30,USDJPY,US,EIA Crude Oil Stocks Change,0.729081267004014,-1,catboost_v2_pair
+2025.04.10 21:00,USDJPY,US,Federal Budget Balance,0.7132699588941941,-1,catboost_v2_pair
+2025.04.16 16:15,USDJPY,US,Fed Industrial Production m/m,0.7511419574467002,1,catboost_v2_pair
+2025.04.16 17:30,USDJPY,US,EIA Crude Oil Stocks Change,0.7565035676555514,-1,catboost_v2_pair
+2025.04.17 02:50,USDJPY,JP,Trade Balance,0.7768538089187862,-1,catboost_v2_pair
+2025.04.18 02:30,USDJPY,JP,CPI excl. Food and Energy y/y,0.7635776590612725,-1,catboost_v2_pair
+2025.04.30 15:30,USDJPY,US,GDP Sales q/q,0.7860650993522409,1,catboost_v2_pair
+2025.04.30 15:30,USDJPY,US,GDP q/q,0.7438917888102999,1,catboost_v2_pair
+2025.05.01 16:45,USDJPY,US,S&P Global Manufacturing PMI,0.7813871754711708,1,catboost_v2_pair
+2025.05.05 17:00,USDJPY,US,ISM Non-Manufacturing PMI,0.7654005116070116,1,catboost_v2_pair
+2025.05.15 15:30,USDJPY,US,Retail Sales m/m,0.7158454971678586,1,catboost_v2_pair
+2025.05.16 17:00,USDJPY,US,Michigan Inflation Expectations,0.7232024000705518,1,catboost_v2_pair
+2025.05.23 02:30,USDJPY,JP,CPI excl. Food and Energy y/y,0.7165474155160341,-1,catboost_v2_pair
+2025.05.27 17:00,USDJPY,US,CB Consumer Confidence Index,0.7934648089978227,1,catboost_v2_pair
+2025.06.17 15:30,USDJPY,US,Retail Sales m/m,0.7255851465886117,1,catboost_v2_pair
+2025.06.17 15:30,USDJPY,US,Core Retail Sales m/m,0.763303960472308,1,catboost_v2_pair
+2025.06.26 15:30,USDJPY,US,GDP q/q,0.7581673897006594,1,catboost_v2_pair
+2025.07.03 03:30,USDJPY,JP,au Jibun Bank Services PMI,0.733639047426134,-1,catboost_v2_pair
+2025.07.03 17:00,USDJPY,US,ISM Non-Manufacturing PMI,0.7737743745737692,1,catboost_v2_pair
+2025.07.09 02:50,USDJPY,JP,BoJ L Money Stock y/y,0.7013985118806442,-1,catboost_v2_pair
+2025.07.09 17:30,USDJPY,US,EIA Crude Oil Stocks Change,0.703968404578282,1,catboost_v2_pair
+2025.07.18 17:00,USDJPY,US,Michigan Consumer Sentiment,0.7716273625568911,1,catboost_v2_pair
+2025.07.18 17:00,USDJPY,US,Michigan Consumer Expectations,0.7173707652503181,1,catboost_v2_pair
+2025.07.23 17:00,USDJPY,US,Existing Home Sales m/m,0.7264176931443236,1,catboost_v2_pair
+2025.07.29 17:00,USDJPY,US,CB Consumer Confidence Index,0.7842208097808183,1,catboost_v2_pair
+2025.07.30 17:00,USDJPY,US,Pending Home Sales m/m,0.7458790189971387,1,catboost_v2_pair
+2025.08.13 17:30,USDJPY,US,EIA Crude Oil Stocks Change,0.72651024160658,1,catboost_v2_pair
+2025.08.15 15:30,USDJPY,US,Retail Sales m/m,0.7181490983695079,1,catboost_v2_pair
+2025.08.15 16:15,USDJPY,US,Fed Industrial Production m/m,0.792232083368933,1,catboost_v2_pair
+2025.09.04 17:00,USDJPY,US,ISM Non-Manufacturing PMI,0.779556132107855,1,catboost_v2_pair
+2025.09.16 16:15,USDJPY,US,Fed Industrial Production y/y,0.7694592972149077,1,catboost_v2_pair
+2025.10.07 02:30,USDJPY,JP,Household Spending y/y,0.717495619410682,-1,catboost_v2_pair
+2025.10.08 02:50,USDJPY,JP,Current Account n.s.a.,0.766142096978163,-1,catboost_v2_pair
+2025.10.14 02:50,USDJPY,JP,BoJ L Money Stock y/y,0.7665217209395505,-1,catboost_v2_pair
+2025.10.22 02:50,USDJPY,JP,Adjusted Trade Balance,0.7174682996419715,-1,catboost_v2_pair
+2025.10.29 17:00,USDJPY,US,Pending Home Sales m/m,0.7167189660869059,1,catboost_v2_pair
+2025.11.05 17:45,USDJPY,US,S&P Global Services PMI,0.773813413008698,1,catboost_v2_pair
+2025.11.26 17:45,USDJPY,US,MNI Chicago Business Barometer,0.7301555415808286,-1,catboost_v2_pair
+2025.12.17 02:50,USDJPY,JP,Trade Balance,0.7215646370506238,-1,catboost_v2_pair
+2025.12.23 17:15,USDJPY,US,Fed Industrial Production y/y,0.8148091194813457,1,catboost_v2_pair
+2026.02.10 16:30,USDJPY,US,Retail Sales m/m,0.7489438346419705,1,catboost_v2_pair
+2026.02.10 16:30,USDJPY,US,Core Retail Sales m/m,0.788208415871452,1,catboost_v2_pair
+2026.02.18 17:15,USDJPY,US,Fed Industrial Production y/y,0.7128172263589988,1,catboost_v2_pair
+2026.02.19 16:30,USDJPY,US,Initial Jobless Claims,0.7093968218981014,-1,catboost_v2_pair
+2026.02.20 16:30,USDJPY,US,GDP q/q,0.80015307103556,1,catboost_v2_pair
+2026.02.20 16:30,USDJPY,US,GDP Sales q/q,0.7810239876063924,1,catboost_v2_pair
+2026.02.24 18:00,USDJPY,US,CB Consumer Confidence Index,0.7459636264186558,1,catboost_v2_pair
+2026.03.06 16:30,USDJPY,US,Core Retail Sales m/m,0.7003867717252683,1,catboost_v2_pair
+2026.03.13 15:30,USDJPY,US,GDP Sales q/q,0.7212585719058455,1,catboost_v2_pair
+2026.03.16 16:15,USDJPY,US,Fed Industrial Production m/m,0.7839612582738205,1,catboost_v2_pair
+2026.03.18 02:50,USDJPY,JP,Adjusted Trade Balance,0.7061005302446517,-1,catboost_v2_pair
+2026.03.18 17:30,USDJPY,US,EIA Crude Oil Stocks Change,0.7294538019694763,1,catboost_v2_pair
+2026.03.18 17:30,USDJPY,US,EIA Cushing Crude Oil Stocks Change,0.7321753391907085,1,catboost_v2_pair
+2026.03.19 15:30,USDJPY,US,Philadelphia Fed Employment,0.707894363962119,-1,catboost_v2_pair
+2026.03.25 15:30,USDJPY,US,Import Price Index m/m,0.7470415433561363,1,catboost_v2_pair
+2026.03.25 17:30,USDJPY,US,EIA Crude Oil Stocks Change,0.7292005247380284,1,catboost_v2_pair
+2026.03.25 17:30,USDJPY,US,EIA Cushing Crude Oil Stocks Change,0.7280175991543679,1,catboost_v2_pair
+2026.04.13 02:50,USDJPY,JP,BoJ L Money Stock y/y,0.7349110826486727,-1,catboost_v2_pair
+2026.04.15 23:00,USDJPY,US,TIC Net Long-Term Transactions,0.7442769299210101,-1,catboost_v2_pair
+2026.04.16 16:15,USDJPY,US,Fed Industrial Production m/m,0.7542980508257349,1,catboost_v2_pair
+2026.04.16 16:15,USDJPY,US,Fed Industrial Production y/y,0.8046838851446221,1,catboost_v2_pair
+2026.04.28 17:00,USDJPY,US,CB Consumer Confidence Index,0.7228588376552569,1,catboost_v2_pair
+2026.05.05 16:45,USDJPY,US,S&P Global Composite PMI,0.7542471721356204,1,catboost_v2_pair
+2026.05.13 02:50,USDJPY,JP,Current Account n.s.a.,0.7653228119628259,-1,catboost_v2_pair
+2026.05.14 15:30,USDJPY,US,Core Retail Sales m/m,0.7054024207653955,1,catboost_v2_pair
+2026.05.15 16:15,USDJPY,US,Fed Industrial Production y/y,0.7530077111535577,1,catboost_v2_pair
+2026.05.19 02:50,USDJPY,JP,GDP Price Index y/y,0.706003297995207,-1,catboost_v2_pair
+2026.06.03 17:00,USDJPY,US,ISM Non-Manufacturing Prices Paid,0.7055679886757267,1,catboost_v2_pair
+2026.06.17 02:50,USDJPY,JP,Trade Balance,0.7083846292564452,-1,catboost_v2_pair
+2026.06.24 17:00,USDJPY,US,New Home Sales m/m,0.7240349899348754,1,catboost_v2_pair
+2026.06.26 02:30,USDJPY,JP,Tokyo Core CPI y/y,0.7563405243728387,-1,catboost_v2_pair
+2026.07.06 16:45,USDJPY,US,S&P Global Composite PMI,0.7715551455703616,1,catboost_v2_pair
+2026.07.09 17:00,USDJPY,US,Existing Home Sales m/m,0.7160911090809198,1,catboost_v2_pair
+2026.07.16 15:30,USDJPY,US,Core Retail Sales m/m,0.7481153837274735,1,catboost_v2_pair
+2026.07.22 02:50,USDJPY,JP,Adjusted Trade Balance,0.7350281519677906,-1,catboost_v2_pair
+2026.07.22 02:50,USDJPY,JP,Trade Balance,0.7741063701432302,-1,catboost_v2_pair
+2026.07.31 02:30,USDJPY,JP,Tokyo Core CPI y/y,0.7235826028471547,-1,catboost_v2_pair
+2026.08.14 15:30,USDJPY,US,Core Retail Sales m/m,0.7399661874510923,1,catboost_v2_pair
+2026.08.20 02:50,USDJPY,JP,Trade Balance,0.7338678201743124,-1,catboost_v2_pair
+2024.02.01 16:30,AUDUSD,US,Unit Labor Costs q/q,0.671327561965949,-1,catboost_v2_pair
+2024.02.15 16:30,AUDUSD,US,Core Retail Sales m/m,0.7116127599503133,-1,catboost_v2_pair
+2024.04.12 15:30,AUDUSD,US,Import Price Index m/m,0.6631939362238181,1,catboost_v2_pair
+2024.04.15 15:30,AUDUSD,US,NY Fed Empire State Manufacturing Index,0.7622134861371306,-1,catboost_v2_pair
+2024.05.16 15:30,AUDUSD,US,Import Price Index m/m,0.6840604950838264,1,catboost_v2_pair
+2024.05.30 15:30,AUDUSD,US,Retail Inventories m/m,0.669207816922569,1,catboost_v2_pair
+2024.05.31 16:45,AUDUSD,US,MNI Chicago Business Barometer,0.670200510720374,-1,catboost_v2_pair
+2024.06.26 17:00,AUDUSD,US,New Home Sales m/m,0.6680527879492356,-1,catboost_v2_pair
+2024.07.03 15:30,AUDUSD,US,Trade Balance,0.7134501957330341,-1,catboost_v2_pair
+2024.09.06 15:30,AUDUSD,US,Private Nonfarm Payrolls,0.6915747754246203,-1,catboost_v2_pair
+2024.09.19 15:30,AUDUSD,US,Philadelphia Fed Manufacturing Index,0.6853917761922859,-1,catboost_v2_pair
+2024.10.04 15:30,AUDUSD,US,Nonfarm Payrolls,0.6809968676070038,1,catboost_v2_pair
+2024.11.21 16:30,AUDUSD,US,Philadelphia Fed Employment,0.6528495606667425,-1,catboost_v2_pair
+2025.01.16 16:30,AUDUSD,US,Philadelphia Fed Employment,0.7146643600098829,-1,catboost_v2_pair
+2025.02.14 16:30,AUDUSD,US,Import Price Index m/m,0.6734400585925587,1,catboost_v2_pair
+2025.02.14 16:30,AUDUSD,US,Core Retail Sales m/m,0.714752952683052,-1,catboost_v2_pair
+2025.02.14 16:30,AUDUSD,US,Retail Sales m/m,0.6732914859838355,-1,catboost_v2_pair
+2025.02.19 16:30,AUDUSD,US,Housing Starts m/m,0.6835908143165873,-1,catboost_v2_pair
+2025.02.27 16:30,AUDUSD,US,Durable Goods Orders m/m,0.7112505357011726,-1,catboost_v2_pair
+2025.03.07 16:30,AUDUSD,US,Nonfarm Payrolls,0.6518777082827011,-1,catboost_v2_pair
+2025.03.20 15:30,AUDUSD,US,Current Account,0.668852162350399,-1,catboost_v2_pair
+2025.03.27 15:30,AUDUSD,US,Goods Trade Balance,0.673547779318823,-1,catboost_v2_pair
+2025.04.15 15:30,AUDUSD,US,NY Fed Empire State Manufacturing Index,0.7004793670982234,-1,catboost_v2_pair
+2025.05.15 15:30,AUDUSD,US,Philadelphia Fed Manufacturing Index,0.6528540905770859,-1,catboost_v2_pair
+2025.07.25 15:30,AUDUSD,US,Durable Goods Orders m/m,0.672667545160607,-1,catboost_v2_pair
+2025.08.01 15:30,AUDUSD,US,Private Nonfarm Payrolls,0.7620977497642994,-1,catboost_v2_pair
+2025.08.05 15:30,AUDUSD,US,Trade Balance,0.7191766042093035,-1,catboost_v2_pair
+2025.08.15 15:30,AUDUSD,US,Import Price Index m/m,0.6948039272019447,1,catboost_v2_pair
+2025.08.26 15:30,AUDUSD,US,Durable Goods Orders m/m,0.6820456529224822,-1,catboost_v2_pair
+2025.09.10 15:30,AUDUSD,US,PPI m/m,0.6877020713799498,-1,catboost_v2_pair
+2025.11.20 16:30,AUDUSD,US,Philadelphia Fed Manufacturing Index,0.7280305125045268,-1,catboost_v2_pair
+2026.01.26 16:30,AUDUSD,US,Durable Goods Orders m/m,0.7000366281333382,-1,catboost_v2_pair
+2026.03.19 15:30,AUDUSD,US,Philadelphia Fed Employment,0.7162629148629528,-1,catboost_v2_pair
+2026.06.11 15:30,AUDUSD,US,Initial Jobless Claims,0.6541720597331779,-1,catboost_v2_pair
+2026.07.14 15:30,AUDUSD,US,CPI m/m,0.711790977554716,-1,catboost_v2_pair
+2026.07.16 15:30,AUDUSD,US,Core Retail Sales m/m,0.6869490970161589,-1,catboost_v2_pair
+2026.07.27 15:30,AUDUSD,US,Durable Goods Orders m/m,0.6706273405473452,-1,catboost_v2_pair
+2026.07.28 15:30,AUDUSD,US,Goods Trade Balance,0.6937820835355621,-1,catboost_v2_pair
+2026.07.29 04:30,AUDUSD,AU,CPI q/q,0.6677831279115434,-1,catboost_v2_pair
+2026.08.04 15:30,AUDUSD,US,Trade Balance,0.7211485401291162,-1,catboost_v2_pair
+2024.01.11 16:30,USDCAD,US,CPI y/y,0.7439291390325139,-1,catboost_v2_pair
+2024.01.11 22:00,USDCAD,US,Federal Budget Balance,0.7810193121916094,-1,catboost_v2_pair
+2024.02.01 16:30,USDCAD,US,Unit Labor Costs q/q,0.7601002471657587,1,catboost_v2_pair
+2024.02.12 22:00,USDCAD,US,Federal Budget Balance,0.7748078208097104,-1,catboost_v2_pair
+2024.02.27 18:00,USDCAD,US,CB Consumer Confidence Index,0.7075078067483174,-1,catboost_v2_pair
+2024.02.28 16:30,USDCAD,CA,Current Account,0.7817694766623587,-1,catboost_v2_pair
+2024.03.01 18:00,USDCAD,US,Construction Spending m/m,0.7405301513478062,1,catboost_v2_pair
+2024.04.01 17:00,USDCAD,US,ISM Manufacturing Employment,0.7151644202013231,-1,catboost_v2_pair
+2024.04.15 15:30,USDCAD,US,NY Fed Empire State Manufacturing Index,0.8446754243740956,1,catboost_v2_pair
+2024.05.03 17:00,USDCAD,US,ISM Non-Manufacturing Employment,0.717260127285872,-1,catboost_v2_pair
+2024.05.03 17:00,USDCAD,US,ISM Non-Manufacturing PMI,0.7436435485242698,-1,catboost_v2_pair
+2024.05.15 15:15,USDCAD,CA,CMHC Housing Starts,0.7183186338242726,-1,catboost_v2_pair
+2024.05.22 17:00,USDCAD,US,Existing Home Sales m/m,0.7073185544575423,-1,catboost_v2_pair
+2024.06.05 17:00,USDCAD,US,ISM Non-Manufacturing Employment,0.7116866831303896,-1,catboost_v2_pair
+2024.06.07 15:30,USDCAD,CA,Employment Change,0.7308137301678689,-1,catboost_v2_pair
+2024.07.01 17:00,USDCAD,US,ISM Manufacturing Employment,0.7031625062333271,-1,catboost_v2_pair
+2024.07.03 15:30,USDCAD,US,Trade Balance,0.787778437710708,1,catboost_v2_pair
+2024.08.01 16:45,USDCAD,US,S&P Global Manufacturing PMI,0.7408479927420519,-1,catboost_v2_pair
+2024.08.09 15:30,USDCAD,CA,Employment Change,0.709776079715844,-1,catboost_v2_pair
+2024.08.27 17:00,USDCAD,US,CB Consumer Confidence Index,0.7200939419821701,-1,catboost_v2_pair
+2024.09.17 15:15,USDCAD,CA,CMHC Housing Starts,0.8053215069652049,-1,catboost_v2_pair
+2024.09.19 15:30,USDCAD,US,Philadelphia Fed Manufacturing Index,0.7985043396479942,1,catboost_v2_pair
+2024.10.04 15:30,USDCAD,US,Nonfarm Payrolls,0.8192100503297972,-1,catboost_v2_pair
+2024.10.16 15:15,USDCAD,CA,CMHC Housing Starts,0.7564188584147867,-1,catboost_v2_pair
+2024.11.06 18:30,USDCAD,US,EIA Crude Oil Stocks Change,0.7028874135820452,-1,catboost_v2_pair
+2024.11.15 16:30,USDCAD,US,Retail Control m/m,0.7317319619451575,1,catboost_v2_pair
+2024.12.02 18:00,USDCAD,US,ISM Manufacturing Employment,0.774166903569244,-1,catboost_v2_pair
+2024.12.13 16:30,USDCAD,US,Export Price Index m/m,0.7019003028309257,1,catboost_v2_pair
+2024.12.17 16:30,USDCAD,CA,CPI m/m,0.7135062383343672,1,catboost_v2_pair
+2024.12.23 18:00,USDCAD,US,CB Consumer Confidence Index,0.7110649008149308,-1,catboost_v2_pair
+2025.01.06 18:00,USDCAD,US,Factory Orders m/m,0.734940776641497,1,catboost_v2_pair
+2025.01.14 22:00,USDCAD,US,Federal Budget Balance,0.7843464771035269,-1,catboost_v2_pair
+2025.01.15 18:30,USDCAD,US,EIA Cushing Crude Oil Stocks Change,0.7245999557486928,-1,catboost_v2_pair
+2025.01.29 16:30,USDCAD,US,Goods Trade Balance,0.7293304204941843,1,catboost_v2_pair
+2025.01.31 17:45,USDCAD,US,MNI Chicago Business Barometer,0.727064878381079,-1,catboost_v2_pair
+2025.02.05 16:30,USDCAD,US,Trade Balance,0.7347081456618904,1,catboost_v2_pair
+2025.02.14 16:30,USDCAD,US,Core Retail Sales m/m,0.7103695110978906,1,catboost_v2_pair
+2025.02.14 16:30,USDCAD,CA,Wholesale Trade m/m,0.7141504494156693,1,catboost_v2_pair
+2025.02.20 16:30,USDCAD,CA,New Housing Price Index m/m,0.7366463664744705,1,catboost_v2_pair
+2025.02.28 16:30,USDCAD,US,Goods Trade Balance,0.7477685939958004,1,catboost_v2_pair
+2025.02.28 16:30,USDCAD,US,Personal Spending m/m,0.7457491204857217,1,catboost_v2_pair
+2025.03.06 16:30,USDCAD,US,Trade Balance,0.7446595319651433,1,catboost_v2_pair
+2025.03.20 15:30,USDCAD,US,Current Account,0.7546517770410294,1,catboost_v2_pair
+2025.04.01 16:45,USDCAD,US,S&P Global Manufacturing PMI,0.7045420189046494,-1,catboost_v2_pair
+2025.04.01 17:00,USDCAD,US,ISM Manufacturing PMI,0.701488088327162,-1,catboost_v2_pair
+2025.04.01 17:00,USDCAD,US,ISM Manufacturing Employment,0.7280347888780854,-1,catboost_v2_pair
+2025.04.10 21:00,USDCAD,US,Federal Budget Balance,0.7030530760568368,-1,catboost_v2_pair
+2025.04.15 15:15,USDCAD,CA,CMHC Housing Starts,0.720010151173739,-1,catboost_v2_pair
+2025.04.15 15:30,USDCAD,US,NY Fed Empire State Manufacturing Index,0.8542219680374473,1,catboost_v2_pair
+2025.04.25 15:30,USDCAD,CA,Retail Sales m/m,0.7530170745229835,1,catboost_v2_pair
+2025.05.15 15:30,USDCAD,US,Philadelphia Fed Manufacturing Index,0.7548708839580182,1,catboost_v2_pair
+2025.05.16 17:00,USDCAD,US,Michigan Consumer Expectations,0.7317119611179482,1,catboost_v2_pair
+2025.06.06 15:30,USDCAD,CA,Employment Change,0.8159736709536701,-1,catboost_v2_pair
+2025.06.13 15:30,USDCAD,CA,Wholesale Trade m/m,0.703538591323948,1,catboost_v2_pair
+2025.07.29 17:00,USDCAD,US,CB Consumer Confidence Index,0.7144529355618757,-1,catboost_v2_pair
+2025.07.31 15:30,USDCAD,CA,GDP m/m,0.7466771658499297,1,catboost_v2_pair
+2025.08.01 15:30,USDCAD,US,Private Nonfarm Payrolls,0.759178020435245,1,catboost_v2_pair
+2025.08.01 16:45,USDCAD,US,S&P Global Manufacturing PMI,0.7072584298499099,-1,catboost_v2_pair
+2025.08.05 15:30,USDCAD,US,Trade Balance,0.8145220425650521,1,catboost_v2_pair
+2025.08.15 15:30,USDCAD,CA,Wholesale Trade m/m,0.7215271472949053,-1,catboost_v2_pair
+2025.08.26 15:30,USDCAD,US,Durable Goods Orders m/m,0.7789039589617262,1,catboost_v2_pair
+2025.08.29 15:30,USDCAD,CA,GDP Annualized q/q,0.7015327824135695,1,catboost_v2_pair
+2025.09.04 17:00,USDCAD,US,ISM Non-Manufacturing PMI,0.7174252251766424,-1,catboost_v2_pair
+2025.09.04 19:00,USDCAD,US,EIA Cushing Crude Oil Stocks Change,0.7077545221587817,-1,catboost_v2_pair
+2025.09.16 16:15,USDCAD,US,Fed Industrial Production y/y,0.7047158166316719,1,catboost_v2_pair
+2025.09.30 16:45,USDCAD,US,MNI Chicago Business Barometer,0.7350690887388402,1,catboost_v2_pair
+2025.11.07 16:30,USDCAD,CA,Employment Change,0.8332091586629109,-1,catboost_v2_pair
+2025.11.18 16:15,USDCAD,CA,CMHC Housing Starts,0.7673882373599181,-1,catboost_v2_pair
+2025.11.20 15:30,USDCAD,US,Private Nonfarm Payrolls,0.7403061886133011,-1,catboost_v2_pair
+2025.11.20 16:30,USDCAD,US,Philadelphia Fed Manufacturing Index,0.7229992911344006,1,catboost_v2_pair
+2025.11.21 16:30,USDCAD,CA,New Housing Price Index m/m,0.7597306055528955,1,catboost_v2_pair
+2025.12.11 16:30,USDCAD,US,Initial Jobless Claims,0.7160733419560869,-1,catboost_v2_pair
+2026.01.29 16:30,USDCAD,US,Trade Balance,0.7289884868176917,1,catboost_v2_pair
+2026.02.19 16:30,USDCAD,CA,New Housing Price Index m/m,0.7597306055528955,1,catboost_v2_pair
+2026.03.13 15:30,USDCAD,US,GDP q/q,0.7176762225201895,1,catboost_v2_pair
+2026.03.16 15:15,USDCAD,CA,CMHC Housing Starts,0.7108119650663972,-1,catboost_v2_pair
+2026.03.17 17:00,USDCAD,US,Pending Home Sales m/m,0.7231094903372172,-1,catboost_v2_pair
+2026.04.15 23:00,USDCAD,US,TIC Net Long-Term Transactions,0.7084069685282954,-1,catboost_v2_pair
+2026.04.22 17:30,USDCAD,US,EIA Crude Oil Stocks Change,0.7034384166120868,-1,catboost_v2_pair
+2026.05.01 17:00,USDCAD,US,ISM Manufacturing Employment,0.7141698280165667,-1,catboost_v2_pair
+2026.05.05 17:00,USDCAD,US,ISM Non-Manufacturing Employment,0.8101386739619277,-1,catboost_v2_pair
+2026.05.18 23:00,USDCAD,US,TIC Net Long-Term Transactions,0.7103345653888598,-1,catboost_v2_pair
+2026.05.19 15:30,USDCAD,CA,New Housing Price Index m/m,0.7255690057722577,1,catboost_v2_pair
+2026.06.17 15:30,USDCAD,CA,New Housing Price Index m/m,0.7998416020755688,1,catboost_v2_pair
+2026.06.26 15:30,USDCAD,US,Goods Trade Balance,0.7278702089744261,1,catboost_v2_pair
+2026.07.07 15:30,USDCAD,US,Trade Balance,0.7441690628401263,1,catboost_v2_pair
+2026.08.26 17:30,USDCAD,US,EIA Cushing Crude Oil Stocks Change,0.726348312337388,-1,catboost_v2_pair
+2024.01.11 22:00,NZDUSD,US,Federal Budget Balance,0.7738204127528474,1,catboost_v2_pair
+2024.01.19 00:30,NZDUSD,NZ,BusinessNZ Manufacturing Index,0.7945276036771824,-1,catboost_v2_pair
+2024.02.07 16:30,NZDUSD,US,Trade Balance,0.7826025403362333,-1,catboost_v2_pair
+2024.03.01 18:00,NZDUSD,US,Construction Spending m/m,0.8115904380976935,-1,catboost_v2_pair
+2024.03.15 15:30,NZDUSD,US,Import Price Index m/m,0.8117812173346539,1,catboost_v2_pair
+2024.04.15 15:30,NZDUSD,US,NY Fed Empire State Manufacturing Index,0.7654461004872108,-1,catboost_v2_pair
+2024.05.03 17:00,NZDUSD,US,ISM Non-Manufacturing PMI,0.7504218392221883,1,catboost_v2_pair
+2024.05.16 15:30,NZDUSD,US,Import Price Index m/m,0.7628426027924178,1,catboost_v2_pair
+2024.05.30 17:00,NZDUSD,US,Pending Home Sales m/m,0.7546358857287155,-1,catboost_v2_pair
+2024.06.06 15:30,NZDUSD,US,Nonfarm Productivity q/q,0.7875103532210157,1,catboost_v2_pair
+2024.06.20 15:30,NZDUSD,US,Building Permits,0.7747541734449498,1,catboost_v2_pair
+2024.06.28 15:30,NZDUSD,US,Personal Spending m/m,0.7754656224957349,1,catboost_v2_pair
+2024.07.03 17:00,NZDUSD,US,Factory Orders m/m,0.7641205403383543,-1,catboost_v2_pair
+2024.08.01 16:45,NZDUSD,US,S&P Global Manufacturing PMI,0.7517777329351251,1,catboost_v2_pair
+2024.08.01 17:00,NZDUSD,US,ISM Manufacturing Prices Paid,0.7548127786398453,-1,catboost_v2_pair
+2024.08.15 16:15,NZDUSD,US,Fed Industrial Production y/y,0.771204297743716,-1,catboost_v2_pair
+2024.09.13 17:00,NZDUSD,US,Michigan Consumer Sentiment,0.7608590777852062,-1,catboost_v2_pair
+2024.09.27 15:30,NZDUSD,US,Personal Spending m/m,0.7548730943345241,1,catboost_v2_pair
+2024.10.04 15:30,NZDUSD,US,Nonfarm Payrolls,0.7935395825541921,1,catboost_v2_pair
+2024.10.25 15:30,NZDUSD,US,Core Durable Goods Orders m/m,0.7822768391048249,1,catboost_v2_pair
+2024.11.15 16:30,NZDUSD,US,Retail Control m/m,0.781779591414556,-1,catboost_v2_pair
+2024.11.25 00:45,NZDUSD,NZ,Retail Sales q/q,0.7711889303445367,1,catboost_v2_pair
+2024.11.25 00:45,NZDUSD,NZ,Retail Sales y/y,0.758132108676176,1,catboost_v2_pair
+2024.11.26 18:00,NZDUSD,US,New Home Sales m/m,0.7931585710060212,-1,catboost_v2_pair
+2025.01.06 18:00,NZDUSD,US,Factory Orders m/m,0.7789480992107092,-1,catboost_v2_pair
+2025.02.04 18:00,NZDUSD,US,Factory Orders m/m,0.7707939211888333,-1,catboost_v2_pair
+2025.02.14 16:30,NZDUSD,US,Core Retail Sales m/m,0.7529326349336523,-1,catboost_v2_pair
+2025.02.14 16:30,NZDUSD,US,Retail Control m/m,0.7504782502333748,-1,catboost_v2_pair
+2025.02.27 16:30,NZDUSD,US,Durable Goods Orders m/m,0.7675796797800237,-1,catboost_v2_pair
+2025.02.28 16:30,NZDUSD,US,Personal Spending m/m,0.7924733935721381,-1,catboost_v2_pair
+2025.03.03 18:00,NZDUSD,US,Construction Spending m/m,0.7607672422200661,-1,catboost_v2_pair
+2025.04.15 15:30,NZDUSD,US,NY Fed Empire State Manufacturing Index,0.7539264065282366,-1,catboost_v2_pair
+2025.04.24 17:00,NZDUSD,US,Existing Home Sales m/m,0.7542720696966374,-1,catboost_v2_pair
+2025.05.05 17:00,NZDUSD,US,ISM Non-Manufacturing PMI,0.7685965862210423,-1,catboost_v2_pair
+2025.05.16 15:30,NZDUSD,US,Building Permits,0.7807916861970239,1,catboost_v2_pair
+2025.07.03 17:00,NZDUSD,US,ISM Non-Manufacturing PMI,0.7819725123552501,-1,catboost_v2_pair
+2025.07.18 17:00,NZDUSD,US,Michigan Consumer Sentiment,0.7744212719031112,-1,catboost_v2_pair
+2025.09.05 15:30,NZDUSD,US,Average Hourly Earnings y/y,0.7602745517329069,1,catboost_v2_pair
+2025.09.17 15:30,NZDUSD,US,Building Permits,0.7585439982581698,1,catboost_v2_pair
+2025.09.25 15:30,NZDUSD,US,Core Durable Goods Orders m/m,0.7598439230056548,1,catboost_v2_pair
+2026.01.08 23:00,NZDUSD,US,Fed Consumer Credit m/m,0.7815535215696505,-1,catboost_v2_pair
+2026.01.26 16:30,NZDUSD,US,Durable Goods Orders m/m,0.7910154103874251,-1,catboost_v2_pair
+2026.02.12 18:00,NZDUSD,US,Existing Home Sales m/m,0.7623138400891433,-1,catboost_v2_pair
+2026.03.12 15:30,NZDUSD,US,Building Permits,0.7763362275979685,1,catboost_v2_pair
+2026.03.13 15:30,NZDUSD,US,Core Durable Goods Orders m/m,0.7600531098943588,1,catboost_v2_pair
+2026.04.28 17:00,NZDUSD,US,CB Consumer Confidence Index,0.7561150038840283,-1,catboost_v2_pair
+2026.04.29 15:30,NZDUSD,US,Building Permits,0.7766796332229887,1,catboost_v2_pair
+2026.05.18 23:00,NZDUSD,US,TIC Net Long-Term Transactions,0.7644700509028522,-1,catboost_v2_pair
+2026.05.28 15:30,NZDUSD,US,Personal Spending m/m,0.755500481148149,1,catboost_v2_pair
+2026.06.05 15:30,NZDUSD,US,Average Hourly Earnings y/y,0.7618483001935914,1,catboost_v2_pair
+2026.07.09 17:00,NZDUSD,US,Existing Home Sales m/m,0.7648900809785518,-1,catboost_v2_pair
+2024.02.15 16:30,USDCHF,US,Retail Sales m/m,0.7884380492888112,1,catboost_v2_pair
+2024.02.15 16:30,USDCHF,US,Core Retail Sales m/m,0.8527082773038454,1,catboost_v2_pair
+2024.04.15 15:30,USDCHF,US,NY Fed Empire State Manufacturing Index,0.809863759536196,1,catboost_v2_pair
+2024.04.30 17:00,USDCHF,US,CB Consumer Confidence Index,0.7562637807186193,-1,catboost_v2_pair
+2024.05.01 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.752722763978871,1,catboost_v2_pair
+2024.05.16 16:15,USDCHF,US,Fed Industrial Production y/y,0.8128971433702508,1,catboost_v2_pair
+2024.06.12 21:00,USDCHF,US,Federal Budget Balance,0.7603327188203589,-1,catboost_v2_pair
+2024.07.04 09:30,USDCHF,CH,CPI m/m,0.7796286637932645,1,catboost_v2_pair
+2024.07.18 23:00,USDCHF,US,TIC Net Long-Term Transactions,0.767393746743592,-1,catboost_v2_pair
+2024.08.15 16:15,USDCHF,US,Fed Industrial Production m/m,0.84697073272105,1,catboost_v2_pair
+2024.08.15 16:15,USDCHF,US,Fed Industrial Production y/y,0.7961203545107938,1,catboost_v2_pair
+2024.09.11 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7603833976601446,1,catboost_v2_pair
+2024.09.12 21:00,USDCHF,US,Federal Budget Balance,0.762547005297113,-1,catboost_v2_pair
+2024.10.02 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7518442991711508,1,catboost_v2_pair
+2024.10.17 16:15,USDCHF,US,Fed Industrial Production m/m,0.7954071652081723,1,catboost_v2_pair
+2024.10.17 16:15,USDCHF,US,Fed Industrial Production y/y,0.825770874750591,1,catboost_v2_pair
+2024.10.23 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7749173288019602,1,catboost_v2_pair
+2024.11.01 10:30,USDCHF,CH,CPI m/m,0.7623772075222741,1,catboost_v2_pair
+2024.11.13 22:00,USDCHF,US,Federal Budget Balance,0.7614235291755732,-1,catboost_v2_pair
+2024.12.12 16:30,USDCHF,US,Initial Jobless Claims,0.7585711203327486,1,catboost_v2_pair
+2024.12.17 17:15,USDCHF,US,Fed Industrial Production y/y,0.7597397053621032,1,catboost_v2_pair
+2025.02.13 10:30,USDCHF,CH,CPI m/m,0.7549038355043405,1,catboost_v2_pair
+2025.02.14 16:30,USDCHF,US,Retail Sales m/m,0.8304950783257375,1,catboost_v2_pair
+2025.02.14 16:30,USDCHF,US,Core Retail Sales m/m,0.8185021658741617,1,catboost_v2_pair
+2025.04.02 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7602281482323392,1,catboost_v2_pair
+2025.04.16 16:15,USDCHF,US,Fed Industrial Production m/m,0.8509434029386542,1,catboost_v2_pair
+2025.06.11 21:00,USDCHF,US,Federal Budget Balance,0.7608631063447799,-1,catboost_v2_pair
+2025.06.17 15:30,USDCHF,US,Core Retail Sales m/m,0.7648811140348722,1,catboost_v2_pair
+2025.06.17 15:30,USDCHF,US,Retail Sales m/m,0.8057804737183821,1,catboost_v2_pair
+2025.06.18 23:00,USDCHF,US,TIC Net Long-Term Transactions,0.8049442550189969,-1,catboost_v2_pair
+2025.06.30 10:00,USDCHF,CH,KOF Economic Barometer,0.7504121876217694,-1,catboost_v2_pair
+2025.07.02 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7585743924549381,1,catboost_v2_pair
+2025.07.30 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.78608698357616,1,catboost_v2_pair
+2025.08.12 21:00,USDCHF,US,Federal Budget Balance,0.7710173552465198,-1,catboost_v2_pair
+2025.08.13 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.8173050199577279,1,catboost_v2_pair
+2025.08.15 16:15,USDCHF,US,Fed Industrial Production m/m,0.7985985484598539,1,catboost_v2_pair
+2025.09.18 23:00,USDCHF,US,TIC Net Long-Term Transactions,0.7776609721152885,-1,catboost_v2_pair
+2025.09.24 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7707748886585335,1,catboost_v2_pair
+2025.12.23 17:15,USDCHF,US,Fed Industrial Production y/y,0.7866641922638489,1,catboost_v2_pair
+2026.01.09 16:30,USDCHF,US,Housing Starts m/m,0.7558865932557315,1,catboost_v2_pair
+2026.02.05 16:30,USDCHF,US,Initial Jobless Claims,0.755327086756522,1,catboost_v2_pair
+2026.04.16 16:15,USDCHF,US,Fed Industrial Production m/m,0.8332074855280827,1,catboost_v2_pair
+2026.07.02 09:30,USDCHF,CH,CPI m/m,0.7772171301913173,1,catboost_v2_pair
+2026.07.08 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.763205339320613,1,catboost_v2_pair
+2026.07.16 15:30,USDCHF,US,Core Retail Sales m/m,0.7755225800045347,1,catboost_v2_pair
+2026.08.05 17:30,USDCHF,US,EIA Crude Oil Stocks Change,0.7592037893992486,1,catboost_v2_pair
+2026.08.14 15:30,USDCHF,US,Retail Sales m/m,0.7501687380053008,1,catboost_v2_pair
+2024.01.08 13:00,EURJPY,EU,Economic Sentiment Indicator,0.7308534189372117,1,catboost_v2_pair
+2024.02.21 02:50,EURJPY,JP,Adjusted Trade Balance,0.7348994599565752,1,catboost_v2_pair
+2024.02.21 02:50,EURJPY,JP,Trade Balance,0.709113807253172,-1,catboost_v2_pair
+2024.02.28 13:00,EURJPY,EU,Consumer Price Expectations,0.8209569887532004,1,catboost_v2_pair
+2024.02.28 13:00,EURJPY,EU,Economic Sentiment Indicator,0.7124209905048923,1,catboost_v2_pair
+2024.03.08 02:50,EURJPY,JP,Current Account n.s.a.,0.7644953142168199,1,catboost_v2_pair
+2024.03.08 02:50,EURJPY,JP,Adjusted Current Account,0.8334008831179242,1,catboost_v2_pair
+2024.03.21 02:50,EURJPY,JP,Trade Balance,0.7946502608869689,-1,catboost_v2_pair
+2024.03.21 02:50,EURJPY,JP,Adjusted Trade Balance,0.7220088882255862,-1,catboost_v2_pair
+2024.03.27 13:00,EURJPY,EU,Consumer Price Expectations,0.7092491510478884,1,catboost_v2_pair
+2024.03.29 02:30,EURJPY,JP,Tokyo Core CPI y/y,0.755928878804258,-1,catboost_v2_pair
+2024.04.05 02:30,EURJPY,JP,Household Spending y/y,0.7104965731559775,1,catboost_v2_pair
+2024.04.08 02:50,EURJPY,JP,Current Account n.s.a.,0.8316601797948097,1,catboost_v2_pair
+2024.04.17 02:50,EURJPY,JP,Trade Balance,0.700467571557933,-1,catboost_v2_pair
+2024.05.16 02:50,EURJPY,JP,Net Exports Contribution to GDP q/q,0.7339120326493639,-1,catboost_v2_pair
+2024.05.22 02:50,EURJPY,JP,Trade Balance,0.8052002475681271,-1,catboost_v2_pair
+2024.05.22 02:50,EURJPY,JP,Adjusted Trade Balance,0.7467869713534415,-1,catboost_v2_pair
+2024.06.10 02:50,EURJPY,JP,Adjusted Current Account,0.8544690999811173,1,catboost_v2_pair
+2024.06.18 12:05,EURJPY,EU,ZEW Economic Sentiment Indicator,0.76719598670365,1,catboost_v2_pair
+2024.06.28 02:30,EURJPY,JP,Tokyo CPI excl. Food and Energy y/y,0.7300683113880936,-1,catboost_v2_pair
+2024.07.16 12:05,EURJPY,EU,ZEW Economic Sentiment Indicator,0.7655911408443891,1,catboost_v2_pair
+2024.07.18 02:50,EURJPY,JP,Trade Balance,0.7333505466043759,1,catboost_v2_pair
+2024.07.26 02:30,EURJPY,JP,Tokyo CPI excl. Food and Energy y/y,0.7606405387326403,-1,catboost_v2_pair
+2024.07.26 02:30,EURJPY,JP,Tokyo Core CPI y/y,0.7558566024556818,-1,catboost_v2_pair
+2024.07.30 12:00,EURJPY,EU,GDP y/y,0.7036067266963891,1,catboost_v2_pair
+2024.08.16 12:00,EURJPY,EU,Trade Balance,0.7832624489803343,1,catboost_v2_pair
+2024.08.21 02:50,EURJPY,JP,Trade Balance,0.8280825894768403,-1,catboost_v2_pair
+2024.08.30 02:30,EURJPY,JP,Tokyo CPI excl. Food and Energy y/y,0.7360402223850069,-1,catboost_v2_pair
+2024.08.30 02:50,EURJPY,JP,Retail Sales m/m,0.7311280123731294,-1,catboost_v2_pair
+2024.09.06 02:30,EURJPY,JP,Household Spending y/y,0.7480716311617006,1,catboost_v2_pair
+2024.09.09 02:50,EURJPY,JP,Current Account n.s.a.,0.8303953961111918,1,catboost_v2_pair
+2024.09.09 02:50,EURJPY,JP,Adjusted Current Account,0.8305946652015185,1,catboost_v2_pair
+2024.09.18 02:50,EURJPY,JP,Trade Balance,0.7320358739589526,-1,catboost_v2_pair
+2024.09.20 02:30,EURJPY,JP,CPI excl. Food and Energy y/y,0.7328287462667685,-1,catboost_v2_pair
+2024.09.23 11:00,EURJPY,EU,S&P Global Services PMI,0.7074410915588242,1,catboost_v2_pair
+2024.09.27 02:30,EURJPY,JP,Tokyo CPI excl. Food and Energy y/y,0.7310631450960432,-1,catboost_v2_pair
+2024.10.08 02:50,EURJPY,JP,Current Account n.s.a.,0.7595226485759298,1,catboost_v2_pair
+2024.10.08 02:50,EURJPY,JP,Adjusted Current Account,0.8387755496369433,1,catboost_v2_pair
+2024.10.17 02:50,EURJPY,JP,Trade Balance,0.8416872599227734,-1,catboost_v2_pair
+2024.10.25 02:30,EURJPY,JP,Tokyo CPI excl. Food and Energy y/y,0.7069811518377379,-1,catboost_v2_pair
+2024.10.25 02:30,EURJPY,JP,Tokyo Core CPI y/y,0.7364660646157485,-1,catboost_v2_pair
+2024.10.30 13:00,EURJPY,EU,Consumer Price Expectations,0.7675328352558,1,catboost_v2_pair
+2024.10.30 13:00,EURJPY,EU,Economic Sentiment Indicator,0.7049929339440992,1,catboost_v2_pair
+2024.11.18 13:00,EURJPY,EU,Trade Balance n.s.a.,0.7075908481811727,1,catboost_v2_pair
+2024.11.29 02:30,EURJPY,JP,Tokyo CPI excl. Food and Energy y/y,0.7262706496848668,-1,catboost_v2_pair
+2024.12.02 02:50,EURJPY,JP,Capital Spending y/y,0.709856431705155,1,catboost_v2_pair
+2024.12.11 02:50,EURJPY,JP,BSI Large Manufacturing,0.7284221948699127,1,catboost_v2_pair
+2024.12.18 02:50,EURJPY,JP,Adjusted Trade Balance,0.7249563123660664,-1,catboost_v2_pair
+2025.01.10 02:30,EURJPY,JP,Household Spending m/m,0.8159990401477417,1,catboost_v2_pair
+2025.01.14 02:50,EURJPY,JP,Adjusted Current Account,0.8263475210410401,1,catboost_v2_pair
+2025.01.14 02:50,EURJPY,JP,Current Account n.s.a.,0.8405203986232794,1,catboost_v2_pair
+2025.01.23 02:50,EURJPY,JP,Trade Balance,0.7100231701111908,-1,catboost_v2_pair
+2025.02.07 02:30,EURJPY,JP,Household Spending y/y,0.7388008143264231,1,catboost_v2_pair
+2025.02.19 02:50,EURJPY,JP,Adjusted Trade Balance,0.8261722519468696,-1,catboost_v2_pair
+2025.02.19 02:50,EURJPY,JP,Trade Balance,0.8021779942416734,-1,catboost_v2_pair
+2025.03.10 02:50,EURJPY,JP,Current Account n.s.a.,0.7180717286620055,-1,catboost_v2_pair
+2025.03.11 02:30,EURJPY,JP,Household Spending y/y,0.7134142948699219,1,catboost_v2_pair
+2025.03.19 02:50,EURJPY,JP,Adjusted Trade Balance,0.7141529938806571,1,catboost_v2_pair
+2025.03.28 13:00,EURJPY,EU,Consumer Price Expectations,0.719836627510386,1,catboost_v2_pair
+2025.04.08 02:50,EURJPY,JP,Current Account n.s.a.,0.8235446945233523,1,catboost_v2_pair
+2025.04.17 02:50,EURJPY,JP,Trade Balance,0.7289752390248924,-1,catboost_v2_pair
+2025.04.29 12:00,EURJPY,EU,Consumer Price Expectations,0.7001967397244282,1,catboost_v2_pair
+2025.04.30 12:00,EURJPY,EU,GDP y/y,0.7052142896203691,1,catboost_v2_pair
+2025.05.09 02:30,EURJPY,JP,Household Spending y/y,0.7482683262650818,1,catboost_v2_pair
+2025.05.09 02:30,EURJPY,JP,Household Spending m/m,0.759918862178039,1,catboost_v2_pair
+2025.05.12 02:50,EURJPY,JP,Adjusted Current Account,0.7953312068085406,1,catboost_v2_pair
+2025.07.04 02:30,EURJPY,JP,Household Spending m/m,0.7106280183992573,1,catboost_v2_pair
+2025.07.08 02:50,EURJPY,JP,Current Account n.s.a.,0.804534403845463,1,catboost_v2_pair
+2025.07.15 12:00,EURJPY,EU,Industrial Production m/m,0.7016493095333884,1,catboost_v2_pair
+2025.07.16 12:00,EURJPY,EU,Trade Balance n.s.a.,0.772080424534259,1,catboost_v2_pair
+2025.07.17 02:50,EURJPY,JP,Trade Balance,0.8381047668203293,-1,catboost_v2_pair
+2025.07.30 12:00,EURJPY,EU,GDP y/y,0.7059427793733721,1,catboost_v2_pair
+2025.09.01 02:50,EURJPY,JP,Capital Spending y/y,0.7144329438718213,1,catboost_v2_pair
+2025.09.30 02:50,EURJPY,JP,Large Retailer's Sales y/y,0.7344174966678086,1,catboost_v2_pair
+2025.10.07 02:30,EURJPY,JP,Household Spending m/m,0.7009496943900223,1,catboost_v2_pair
+2025.10.16 12:00,EURJPY,EU,Trade Balance,0.7206966353945382,1,catboost_v2_pair
+2025.10.22 02:50,EURJPY,JP,Trade Balance,0.8351344398421648,-1,catboost_v2_pair
+2025.11.11 02:50,EURJPY,JP,Current Account n.s.a.,0.831516215309601,1,catboost_v2_pair
+2025.11.11 02:50,EURJPY,JP,Adjusted Current Account,0.8391494396619206,1,catboost_v2_pair
+2025.11.17 02:50,EURJPY,JP,Net Exports Contribution to GDP q/q,0.7282694152356564,-1,catboost_v2_pair
+2025.11.28 02:30,EURJPY,JP,Tokyo Core CPI y/y,0.7049046465782453,-1,catboost_v2_pair
+2025.11.28 02:50,EURJPY,JP,Large Retailer's Sales y/y,0.7537480371399439,1,catboost_v2_pair
+2025.12.11 02:50,EURJPY,JP,BSI Large Manufacturing,0.704742838031694,1,catboost_v2_pair
+2025.12.17 02:50,EURJPY,JP,Trade Balance,0.7621432420609238,-1,catboost_v2_pair
+2026.01.09 02:30,EURJPY,JP,Household Spending m/m,0.7299654236080388,1,catboost_v2_pair
+2026.02.18 02:50,EURJPY,JP,Adjusted Trade Balance,0.776067471221317,1,catboost_v2_pair
+2026.03.09 02:50,EURJPY,JP,Adjusted Current Account,0.7619710942664655,1,catboost_v2_pair
+2026.03.18 02:50,EURJPY,JP,Adjusted Trade Balance,0.7037394372463607,-1,catboost_v2_pair
+2026.03.31 02:30,EURJPY,JP,Tokyo Core CPI y/y,0.7359372428160196,-1,catboost_v2_pair
+2026.04.08 02:50,EURJPY,JP,Current Account n.s.a.,0.8701258994286241,1,catboost_v2_pair
+2026.04.22 02:50,EURJPY,JP,Trade Balance,0.7345505221556357,1,catboost_v2_pair
+2026.04.23 11:00,EURJPY,EU,S&P Global Services PMI,0.7320155028110833,1,catboost_v2_pair
+2026.04.24 02:30,EURJPY,JP,Core CPI y/y,0.7077946211012566,-1,catboost_v2_pair
+2026.04.29 12:00,EURJPY,EU,Economic Sentiment Indicator,0.7039268647683898,1,catboost_v2_pair
+2026.05.01 02:30,EURJPY,JP,Tokyo Core CPI y/y,0.7472913004442127,-1,catboost_v2_pair
+2026.05.13 02:50,EURJPY,JP,Adjusted Current Account,0.8267360470896966,1,catboost_v2_pair
+2026.06.05 02:30,EURJPY,JP,Household Spending m/m,0.7028245066403835,1,catboost_v2_pair
+2026.06.29 02:50,EURJPY,JP,Large Retailer's Sales y/y,0.701527276357307,1,catboost_v2_pair
+2026.07.07 02:30,EURJPY,JP,Household Spending m/m,0.7444024920292186,1,catboost_v2_pair
+2026.07.08 02:50,EURJPY,JP,Current Account n.s.a.,0.8319114486363698,1,catboost_v2_pair
+2026.07.22 02:50,EURJPY,JP,Adjusted Trade Balance,0.8345675879041023,-1,catboost_v2_pair
+2026.07.22 02:50,EURJPY,JP,Trade Balance,0.7564913853455872,-1,catboost_v2_pair
+2026.08.10 02:50,EURJPY,JP,Current Account n.s.a.,0.7063330623812698,-1,catboost_v2_pair
+2026.08.14 12:00,EURJPY,EU,Trade Balance,0.7415056308143838,1,catboost_v2_pair
+2026.08.20 02:50,EURJPY,JP,Adjusted Trade Balance,0.7745508509240305,-1,catboost_v2_pair
+2026.08.20 02:50,EURJPY,JP,Trade Balance,0.7952584539052838,-1,catboost_v2_pair
+2026.08.20 02:50,EURJPY,JP,Exports y/y,0.7131975861401916,-1,catboost_v2_pair
+2024.02.08 02:50,GBPJPY,JP,Adjusted Current Account,0.7977789854624899,1,catboost_v2_pair
+2024.02.08 02:50,GBPJPY,JP,Current Account n.s.a.,0.7827732979653994,1,catboost_v2_pair
+2024.02.15 02:50,GBPJPY,JP,GDP Price Index y/y,0.7857715537653743,1,catboost_v2_pair
+2024.02.15 10:00,GBPJPY,GB,Trade Balance Non-EU,0.7581304067034184,1,catboost_v2_pair
+2024.02.21 02:50,GBPJPY,JP,Trade Balance,0.7884918224092908,-1,catboost_v2_pair
+2024.03.21 02:50,GBPJPY,JP,Adjusted Trade Balance,0.8383669416536329,-1,catboost_v2_pair
+2024.05.22 02:50,GBPJPY,JP,Adjusted Trade Balance,0.7994082458393351,-1,catboost_v2_pair
+2024.05.22 02:50,GBPJPY,JP,Trade Balance,0.8433450798371792,-1,catboost_v2_pair
+2024.05.24 09:00,GBPJPY,GB,Core Retail Sales m/m,0.7863495526979031,-1,catboost_v2_pair
+2024.05.24 09:00,GBPJPY,GB,Retail Sales m/m,0.7942733721750739,-1,catboost_v2_pair
+2024.05.24 09:00,GBPJPY,GB,Retail Sales y/y,0.7539306147116158,-1,catboost_v2_pair
+2024.06.19 02:50,GBPJPY,JP,Trade Balance,0.7669143726171994,-1,catboost_v2_pair
+2024.06.21 11:30,GBPJPY,GB,S&P Global/CIPS Services PMI,0.8039608316678003,1,catboost_v2_pair
+2024.07.17 09:00,GBPJPY,GB,CPI m/m,0.7783249467269239,1,catboost_v2_pair
+2024.07.24 11:30,GBPJPY,GB,S&P Global/CIPS Manufacturing PMI,0.752324358550574,-1,catboost_v2_pair
+2024.08.15 07:30,GBPJPY,JP,Industrial Production m/m,0.7530209675312866,1,catboost_v2_pair
+2024.08.21 02:50,GBPJPY,JP,Trade Balance,0.8536463610861748,-1,catboost_v2_pair
+2024.09.11 09:00,GBPJPY,GB,Industrial Production m/m,0.8015712119093762,-1,catboost_v2_pair
+2024.10.16 09:00,GBPJPY,GB,CPI m/m,0.7753904181516947,1,catboost_v2_pair
+2024.10.17 02:50,GBPJPY,JP,Trade Balance,0.8283924277536883,-1,catboost_v2_pair
+2024.10.31 02:50,GBPJPY,JP,Retail Sales m/m,0.7926191986227809,1,catboost_v2_pair
+2024.12.16 12:30,GBPJPY,GB,S&P Global/CIPS Services PMI,0.7886842164446051,-1,catboost_v2_pair
+2025.01.15 10:00,GBPJPY,GB,CPIH m/m,0.8463412457132629,1,catboost_v2_pair
+2025.01.31 10:00,GBPJPY,GB,Nationwide HPI y/y,0.7600646660891621,1,catboost_v2_pair
+2025.02.19 02:50,GBPJPY,JP,Adjusted Trade Balance,0.856701560323379,-1,catboost_v2_pair
+2025.02.19 02:50,GBPJPY,JP,Trade Balance,0.9138739756109806,-1,catboost_v2_pair
+2025.03.11 02:50,GBPJPY,JP,GDP y/y,0.8389731313568847,1,catboost_v2_pair
+2025.04.11 02:50,GBPJPY,JP,BoJ L Money Stock y/y,0.7641037257509904,1,catboost_v2_pair
+2025.04.23 11:30,GBPJPY,GB,S&P Global/CIPS Manufacturing PMI,0.7992381560894413,1,catboost_v2_pair
+2025.05.16 02:50,GBPJPY,JP,GDP q/q,0.7880664004654179,1,catboost_v2_pair
+2025.06.09 02:50,GBPJPY,JP,Current Account n.s.a.,0.7805434414676466,1,catboost_v2_pair
+2025.06.09 02:50,GBPJPY,JP,Adjusted Current Account,0.8006326429208451,1,catboost_v2_pair
+2025.06.20 09:00,GBPJPY,GB,Retail Sales m/m,0.7582573632526304,-1,catboost_v2_pair
+2025.06.27 02:50,GBPJPY,JP,Retail Sales m/m,0.7892929000182358,1,catboost_v2_pair
+2025.07.16 09:00,GBPJPY,GB,CPI m/m,0.7857230411045304,1,catboost_v2_pair
+2025.07.17 02:50,GBPJPY,JP,Trade Balance,0.8400722726244175,-1,catboost_v2_pair
+2025.08.08 02:50,GBPJPY,JP,Adjusted Current Account,0.8006326429208451,1,catboost_v2_pair
+2025.08.20 09:00,GBPJPY,GB,CPI m/m,0.8231485186838249,1,catboost_v2_pair
+2025.08.20 09:00,GBPJPY,GB,CPIH m/m,0.7620597438094923,1,catboost_v2_pair
+2025.09.12 09:00,GBPJPY,GB,Manufacturing Production m/m,0.8637021307970676,-1,catboost_v2_pair
+2025.09.23 11:30,GBPJPY,GB,S&P Global/CIPS Manufacturing PMI,0.7754124565049404,1,catboost_v2_pair
+2025.10.22 02:50,GBPJPY,JP,Trade Balance,0.8527614308275161,-1,catboost_v2_pair
+2025.11.17 02:50,GBPJPY,JP,GDP q/q,0.7788292213614761,1,catboost_v2_pair
+2025.11.21 02:50,GBPJPY,JP,Trade Balance,0.7649060751469205,-1,catboost_v2_pair
+2026.02.09 02:50,GBPJPY,JP,Adjusted Current Account,0.7927523566926123,1,catboost_v2_pair
+2026.03.18 02:50,GBPJPY,JP,Adjusted Trade Balance,0.8340856071175262,-1,catboost_v2_pair
+2026.04.08 02:50,GBPJPY,JP,Adjusted Current Account,0.7714138190424487,1,catboost_v2_pair
+2026.04.08 11:30,GBPJPY,GB,S&P Global/CIPS Construction PMI,0.7639647925029726,-1,catboost_v2_pair
+2026.07.22 02:50,GBPJPY,JP,Adjusted Trade Balance,0.8548473103578546,-1,catboost_v2_pair
+2026.07.22 02:50,GBPJPY,JP,Trade Balance,0.8191311112249329,-1,catboost_v2_pair
+2026.07.22 09:00,GBPJPY,GB,CPIH m/m,0.7935827960089811,1,catboost_v2_pair
+2026.08.17 02:50,GBPJPY,JP,GDP Price Index y/y,0.8438276581425865,1,catboost_v2_pair
+2026.08.20 02:50,GBPJPY,JP,Adjusted Trade Balance,0.8267785427048243,-1,catboost_v2_pair
+2026.08.20 02:50,GBPJPY,JP,Trade Balance,0.8290355718526083,-1,catboost_v2_pair

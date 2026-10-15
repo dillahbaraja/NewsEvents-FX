@@ -1,0 +1,4 @@
+"model","baseline_net_pips","baseline_pf","best_v2_variant","best_v2_net_pips","best_v2_pf","delta_net_pips","baseline_final_2026","best_v2_final_2026"
+"catboost","2872.8","1.0174","v3_sparse_event_selection","3051.2","1.0193","178.4","946.9","328.6"
+"elastic_net","-876.1","1.0038","v3_sparse_event_selection","5524.4","1.051","6400.5","547","4035.5"
+"random_forest","-751.7","1.0004","v5_event_congestion_filter","1595.7","1.0649","2347.4","-1357.8","-784.9"

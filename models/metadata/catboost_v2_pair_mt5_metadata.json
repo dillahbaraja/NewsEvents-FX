@@ -1,0 +1,116 @@
+{
+  "model_name": "catboost_v2_pair",
+  "onnx_dir": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx",
+  "signal_table": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_signal_table.csv",
+  "pairs": [
+    {
+      "pair": "EURUSD",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\EURUSD\\best_model\\v2p04_bin_imp2_impact1_thr070_d6_lr003_EURUSD.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_EURUSD.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_EURUSD.cbm",
+      "signals": 33,
+      "win_rate": 0.6060606060606061,
+      "trades": 33,
+      "net_pips": 95.49999999999946,
+      "model": "v2p04_bin_imp2_impact1_thr070_d6_lr003"
+    },
+    {
+      "pair": "GBPUSD",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\GBPUSD\\best_model\\v2p02_bin_imp2_impact1_thr065_d5_lr004_GBPUSD.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_GBPUSD.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_GBPUSD.cbm",
+      "signals": 213,
+      "win_rate": 0.5821596244131455,
+      "trades": 213,
+      "net_pips": 38.80000000000105,
+      "model": "v2p02_bin_imp2_impact1_thr065_d5_lr004"
+    },
+    {
+      "pair": "USDJPY",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\USDJPY\\best_model\\v2p03_bin_imp2_impact2_thr070_d5_lr0035_USDJPY.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_USDJPY.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_USDJPY.cbm",
+      "signals": 137,
+      "win_rate": 0.5693430656934306,
+      "trades": 137,
+      "net_pips": 4.499999999981696,
+      "model": "v2p03_bin_imp2_impact2_thr070_d5_lr0035"
+    },
+    {
+      "pair": "AUDUSD",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\AUDUSD\\best_model\\v2p08_multiclass_imp2_impact2_thr065_d6_lr003_AUDUSD.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_AUDUSD.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_AUDUSD.cbm",
+      "signals": 40,
+      "win_rate": 0.675,
+      "trades": 40,
+      "net_pips": 107.799999999999,
+      "model": "v2p08_multiclass_imp2_impact2_thr065_d6_lr003"
+    },
+    {
+      "pair": "USDCAD",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\USDCAD\\best_model\\v2p03_bin_imp2_impact2_thr070_d5_lr0035_USDCAD.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_USDCAD.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_USDCAD.cbm",
+      "signals": 87,
+      "win_rate": 0.5862068965517241,
+      "trades": 87,
+      "net_pips": 169.29999999999225,
+      "model": "v2p03_bin_imp2_impact2_thr070_d5_lr0035"
+    },
+    {
+      "pair": "NZDUSD",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\NZDUSD\\best_model\\v2p05_bin_imp2_impact2_thr075_d6_lr003_NZDUSD.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_NZDUSD.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_NZDUSD.cbm",
+      "signals": 51,
+      "win_rate": 0.6274509803921569,
+      "trades": 51,
+      "net_pips": 8.099999999996442,
+      "model": "v2p05_bin_imp2_impact2_thr075_d6_lr003"
+    },
+    {
+      "pair": "USDCHF",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\USDCHF\\best_model\\v2p05_bin_imp2_impact2_thr075_d6_lr003_USDCHF.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_USDCHF.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_USDCHF.cbm",
+      "signals": 47,
+      "win_rate": 0.6382978723404256,
+      "trades": 47,
+      "net_pips": 51.20000000000124,
+      "model": "v2p05_bin_imp2_impact2_thr075_d6_lr003"
+    },
+    {
+      "pair": "EURJPY",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\EURJPY\\best_model\\v2p04_bin_imp2_impact1_thr070_d6_lr003_EURJPY.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_EURJPY.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_EURJPY.cbm",
+      "signals": 107,
+      "win_rate": 0.5700934579439252,
+      "trades": 107,
+      "net_pips": 136.39999999999475,
+      "model": "v2p04_bin_imp2_impact1_thr070_d6_lr003"
+    },
+    {
+      "pair": "GBPJPY",
+      "status": "exported",
+      "joblib": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_specific_loop\\GBPJPY\\best_model\\v2p05_bin_imp2_impact2_thr075_d6_lr003_GBPJPY.joblib",
+      "onnx": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_GBPJPY.onnx",
+      "cbm": "C:\\Users\\dilla\\AppData\\Roaming\\MetaQuotes\\Terminal\\Common\\Files\\Dataset\\artifacts\\catboost_v2_pair_onnx\\catboost_v2_pair_GBPJPY.cbm",
+      "signals": 54,
+      "win_rate": 0.5740740740740741,
+      "trades": 54,
+      "net_pips": 64.90000000000293,
+      "model": "v2p05_bin_imp2_impact2_thr075_d6_lr003"
+    }
+  ],
+  "note": "Pair-specific CatBoost V2 exports for MT5. ONNX file is selected by active symbol; CSV rows use MODEL=catboost_v2_pair."
+}

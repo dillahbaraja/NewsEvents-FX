@@ -1,0 +1,11 @@
+case_type,pair,country,event_name,trade_count,net_pips,profit_factor,winrate,avg_pips_per_trade,positive_year_ratio,model,variant
+positive,GBPJPY,GB,CFTC GBP Non-Commercial Net Positions,90,923.5,2.858149,0.644444,10.261111,1.0,ebm,sparse_event_selection
+positive,GBPJPY,JP,CFTC JPY Non-Commercial Net Positions,90,923.5,2.858149,0.644444,10.261111,1.0,ebm,sparse_event_selection
+positive,GBPJPY,JP,Coincident Index,63,483.9,1.952559,0.507937,7.680952,1.0,ebm,sparse_event_selection
+positive,USDJPY,JP,Leading Index,63,477.7,2.81981,0.539683,7.58254,1.0,ebm,event_congestion_filter
+positive,EURJPY,EU,CPI,63,464.7,3.167444,0.555556,7.37619,1.0,ebm,jump_volatility_labeling
+weak,EURJPY,EU,CFTC EUR Non-Commercial Net Positions,90,-379.2,0.592827,0.5,-4.213333,0.333333,ebm,jump_volatility_labeling
+weak,USDJPY,US,FOMC Press Conference,21,-339.2,0.185203,0.333333,-16.152381,0.333333,ebm,event_congestion_filter
+weak,GBPJPY,GB,BoE Governor Bailey Speech,66,-329.9,0.459446,0.424242,-4.998485,0.0,ebm,sparse_event_selection
+weak,GBPUSD,GB,CFTC GBP Non-Commercial Net Positions,90,-261.1,0.48824,0.377778,-2.901111,0.0,ebm,event_congestion_filter
+weak,EURJPY,JP,Foreign Bond Investment,134,-249.0,0.724983,0.485075,-1.858209,0.666667,ebm,jump_volatility_labeling
