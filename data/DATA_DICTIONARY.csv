@@ -1,0 +1,18 @@
+dataset,field,description,unit_or_format
+NEWS_EVENTS.csv,event_time,scheduled release timestamp,ISO-like datetime
+NEWS_EVENTS.csv,CountryCode,country or economic area issuing the release,US/EU/GB/JP/AU/CA/NZ/CH
+NEWS_EVENTS.csv,event_name,event title from the economic calendar,text
+NEWS_EVENTS.csv,importance,calendar importance level,ordinal level
+NEWS_EVENTS.csv,Actual,reported release value,numeric or calendar value
+NEWS_EVENTS.csv,Forecast,consensus expectation,numeric or calendar value
+NEWS_EVENTS.csv,Previous,previous release value,numeric or calendar value
+H1 price files,Time,H1 candle timestamp,datetime
+H1 price files,Open,opening price,price units
+H1 price files,High,highest price in the candle,price units
+H1 price files,Low,lowest price in the candle,price units
+H1 price files,Close,closing price,price units
+H1 price files,Volume,candle volume,broker/source units
+modeling dataset,pair,currency pair identifier,FX symbol
+modeling dataset,domestic_return_1h,one-hour response oriented to the event-country currency,return units
+modeling dataset,trade_label_1h,three-class response label,SELL=-1 NO_TRADE=0 BUY=1
+modeling dataset,split,temporal experiment partition,train/validation/oos_dev/final_audit
